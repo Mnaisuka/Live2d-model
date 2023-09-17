@@ -40,4 +40,4 @@ for subdir, dirs, files in os.walk(rootdir):
 3. 至于提取后怎么区分是哪个角色的...我也不知道,所以批量生成的这些模型我都没有设置触发配音
 
 # 模型使用方法
-使用Live2DViewerEX的编辑模型模式,直接打开Live2DViewerEX.config,打包为lpk上传到创意工坊
+使用Live2DViewerEX的编辑模型模式,直接打开Live2DViewerEX.config
