@@ -1,0 +1,48 @@
+
+Xiaohunhun02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaohunhun02_1
+  rotate: false
+  xy: 45, 993
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+xiaohunhun02_2
+  rotate: false
+  xy: 2, 1001
+  size: 41, 8
+  orig: 41, 8
+  offset: 0, 0
+  index: -1
+xiaohunhun02_3
+  rotate: false
+  xy: 137, 976
+  size: 149, 33
+  orig: 149, 33
+  offset: 0, 0
+  index: -1
+xiaohunhun02_4
+  rotate: false
+  xy: 288, 972
+  size: 138, 37
+  orig: 138, 39
+  offset: 0, 0
+  index: -1
+xiaohunhun02_5
+  rotate: false
+  xy: 90, 985
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+xiaohunhun02_6
+  rotate: false
+  xy: 2, 390
+  size: 1007, 580
+  orig: 1007, 580
+  offset: 0, 0
+  index: -1

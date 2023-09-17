@@ -1,0 +1,48 @@
+
+Lvbujunsongxian.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LBJSX01
+  rotate: false
+  xy: 2, 1858
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+LBJSX02
+  rotate: false
+  xy: 193, 1826
+  size: 146, 40
+  orig: 146, 40
+  offset: 0, 0
+  index: -1
+LBJSX03
+  rotate: false
+  xy: 57, 1831
+  size: 134, 35
+  orig: 134, 35
+  offset: 0, 0
+  index: -1
+LBJSX04
+  rotate: false
+  xy: 30, 1850
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+LBJSX05
+  rotate: false
+  xy: 2, 996
+  size: 1367, 674
+  orig: 1367, 674
+  offset: 0, 0
+  index: -1
+LBJSX06
+  rotate: false
+  xy: 2, 1672
+  size: 1864, 152
+  orig: 1864, 152
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+Zhangchunhuajunjiling.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zchjjl01
+  rotate: true
+  xy: 1534, 1399
+  size: 188, 53
+  orig: 188, 53
+  offset: 0, 0
+  index: -1
+Zchjjl02
+  rotate: true
+  xy: 1534, 1170
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Zchjjl03
+  rotate: true
+  xy: 1534, 1211
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Zchjjl04
+  rotate: true
+  xy: 1534, 1189
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Zchjjl05
+  rotate: false
+  xy: 2, 285
+  size: 1530, 1302
+  orig: 1530, 1302
+  offset: 0, 0
+  index: -1

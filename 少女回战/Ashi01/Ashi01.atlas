@@ -1,0 +1,1475 @@
+
+Ashi01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AS_butu_zuiba02
+  rotate: true
+  xy: 737, 2030
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Abutu_shi_L_02
+  rotate: false
+  xy: 284, 2034
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Ashi_L_01
+  rotate: false
+  xy: 1426, 2024
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+Ashi_L_02
+  rotate: false
+  xy: 1601, 2023
+  size: 56, 22
+  orig: 56, 23
+  offset: 0, 1
+  index: -1
+Ashi_L_03
+  rotate: true
+  xy: 1377, 1950
+  size: 41, 133
+  orig: 44, 133
+  offset: 3, 0
+  index: -1
+Ashi_L_04
+  rotate: true
+  xy: 420, 1387
+  size: 115, 392
+  orig: 115, 392
+  offset: 0, 0
+  index: -1
+Ashi_L_06
+  rotate: false
+  xy: 964, 1961
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Ashi_L_07
+  rotate: false
+  xy: 715, 2002
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Ashi_L_08
+  rotate: false
+  xy: 973, 1694
+  size: 163, 79
+  orig: 163, 79
+  offset: 0, 0
+  index: -1
+Ashi_L_09
+  rotate: false
+  xy: 192, 1535
+  size: 343, 95
+  orig: 343, 105
+  offset: 0, 10
+  index: -1
+Ashi_L_10
+  rotate: true
+  xy: 2, 1419
+  size: 114, 416
+  orig: 120, 435
+  offset: 4, 15
+  index: -1
+Ashi_L_11
+  rotate: true
+  xy: 726, 1779
+  size: 68, 198
+  orig: 73, 205
+  offset: 5, 7
+  index: -1
+Ashi_L_toushi01
+  rotate: true
+  xy: 926, 1775
+  size: 68, 254
+  orig: 68, 254
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi02
+  rotate: true
+  xy: 837, 1912
+  size: 47, 144
+  orig: 47, 144
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi03
+  rotate: true
+  xy: 983, 1908
+  size: 49, 89
+  orig: 49, 112
+  offset: 0, 1
+  index: -1
+Ashi_L_toushi04
+  rotate: true
+  xy: 2, 1536
+  size: 101, 188
+  orig: 101, 188
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi05
+  rotate: true
+  xy: 1706, 1892
+  size: 51, 203
+  orig: 51, 203
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi06
+  rotate: true
+  xy: 170, 1926
+  size: 44, 199
+  orig: 44, 199
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi07
+  rotate: true
+  xy: 331, 2007
+  size: 25, 103
+  orig: 25, 103
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi08
+  rotate: true
+  xy: 2, 787
+  size: 161, 644
+  orig: 161, 644
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi09
+  rotate: false
+  xy: 1947, 1731
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi11
+  rotate: false
+  xy: 784, 1849
+  size: 246, 57
+  orig: 246, 58
+  offset: 0, 1
+  index: -1
+Ashi_L_toushi12
+  rotate: true
+  xy: 1313, 1993
+  size: 29, 228
+  orig: 29, 228
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi13
+  rotate: false
+  xy: 429, 1795
+  size: 295, 62
+  orig: 295, 62
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi14
+  rotate: true
+  xy: 314, 1719
+  size: 74, 275
+  orig: 74, 275
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi15
+  rotate: true
+  xy: 1241, 1835
+  size: 58, 303
+  orig: 58, 303
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi_a
+  rotate: true
+  xy: 1461, 1895
+  size: 50, 243
+  orig: 50, 243
+  offset: 0, 0
+  index: -1
+Ashi_L_toushi_b
+  rotate: true
+  xy: 1059, 1471
+  size: 107, 293
+  orig: 107, 293
+  offset: 0, 0
+  index: -1
+Ashi_R_toushi01
+  rotate: false
+  xy: 199, 950
+  size: 558, 160
+  orig: 558, 160
+  offset: 0, 0
+  index: -1
+Ashi_R_toushi02
+  rotate: true
+  xy: 417, 1253
+  size: 132, 383
+  orig: 132, 386
+  offset: 0, 0
+  index: -1
+Ashi_arm_01
+  rotate: false
+  xy: 465, 1862
+  size: 83, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+Ashi_arm_02
+  rotate: false
+  xy: 231, 1632
+  size: 342, 85
+  orig: 342, 88
+  offset: 0, 1
+  index: -1
+Ashi_arm_03
+  rotate: true
+  xy: 130, 1730
+  size: 73, 182
+  orig: 73, 182
+  offset: 0, 0
+  index: -1
+Ashi_bizi
+  rotate: true
+  xy: 1181, 1995
+  size: 30, 53
+  orig: 38, 60
+  offset: 5, 0
+  index: -1
+Ashi_body_01_1
+  rotate: true
+  xy: 298, 2034
+  size: 11, 118
+  orig: 11, 118
+  offset: 0, 0
+  index: -1
+Ashi_body_01_2
+  rotate: false
+  xy: 899, 2029
+  size: 113, 16
+  orig: 113, 16
+  offset: 0, 0
+  index: -1
+Ashi_body_01_3
+  rotate: true
+  xy: 1257, 2026
+  size: 19, 95
+  orig: 19, 95
+  offset: 0, 0
+  index: -1
+Ashi_body_01_4
+  rotate: true
+  xy: 1014, 2029
+  size: 16, 100
+  orig: 16, 100
+  offset: 0, 0
+  index: -1
+Ashi_body_01_5
+  rotate: false
+  xy: 1917, 1940
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+Ashi_body_01_6
+  rotate: true
+  xy: 1271, 426
+  size: 256, 348
+  orig: 256, 350
+  offset: 0, 0
+  index: -1
+Ashi_body_02
+  rotate: true
+  xy: 1240, 1680
+  size: 83, 148
+  orig: 83, 149
+  offset: 0, 0
+  index: -1
+Ashi_body_03
+  rotate: true
+  xy: 2, 1286
+  size: 131, 413
+  orig: 131, 413
+  offset: 0, 0
+  index: -1
+Ashi_body_bozi
+  rotate: true
+  xy: 575, 1615
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+Ashi_butu03
+  rotate: false
+  xy: 2, 586
+  size: 467, 199
+  orig: 467, 199
+  offset: 0, 0
+  index: -1
+Ashi_eyes_L_01
+  rotate: true
+  xy: 150, 2037
+  size: 8, 13
+  orig: 9, 20
+  offset: 0, 6
+  index: -1
+Ashi_eyes_L_02
+  rotate: false
+  xy: 165, 2037
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Ashi_eyes_L_03
+  rotate: false
+  xy: 1354, 2025
+  size: 70, 20
+  orig: 70, 23
+  offset: 0, 1
+  index: -1
+Ashi_eyes_L_04
+  rotate: true
+  xy: 1116, 2029
+  size: 16, 34
+  orig: 17, 47
+  offset: 1, 0
+  index: -1
+Ashi_eyes_L_05
+  rotate: true
+  xy: 1659, 2023
+  size: 22, 36
+  orig: 25, 46
+  offset: 3, 8
+  index: -1
+Ashi_eyes_L_06
+  rotate: false
+  xy: 113, 2038
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Ashi_eyes_L_07
+  rotate: false
+  xy: 9, 2040
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+Ashi_eyes_L_08
+  rotate: true
+  xy: 1921, 1988
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+Ashi_eyes_L_09
+  rotate: false
+  xy: 1967, 1986
+  size: 58, 33
+  orig: 60, 33
+  offset: 2, 0
+  index: -1
+Ashi_eyes_R_01
+  rotate: false
+  xy: 24, 2039
+  size: 19, 6
+  orig: 19, 7
+  offset: 0, 1
+  index: -1
+Ashi_eyes_R_02
+  rotate: false
+  xy: 262, 2035
+  size: 20, 10
+  orig: 21, 10
+  offset: 1, 0
+  index: -1
+Ashi_eyes_R_03
+  rotate: false
+  xy: 793, 2002
+  size: 102, 26
+  orig: 103, 28
+  offset: 1, 1
+  index: -1
+Ashi_eyes_R_04
+  rotate: false
+  xy: 756, 2030
+  size: 24, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+Ashi_eyes_R_05
+  rotate: false
+  xy: 418, 2034
+  size: 34, 11
+  orig: 36, 13
+  offset: 0, 2
+  index: -1
+Ashi_eyes_R_06
+  rotate: false
+  xy: 45, 2039
+  size: 44, 6
+  orig: 44, 6
+  offset: 0, 0
+  index: -1
+Ashi_eyes_R_07
+  rotate: false
+  xy: 91, 2039
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+Ashi_eyes_R_08
+  rotate: false
+  xy: 17, 2040
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Ashi_eyes_R_09
+  rotate: false
+  xy: 1004, 1960
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Ashi_eyes_R_10
+  rotate: false
+  xy: 1989, 1921
+  size: 49, 63
+  orig: 49, 68
+  offset: 0, 5
+  index: -1
+Ashi_face_01
+  rotate: false
+  xy: 578, 2031
+  size: 100, 14
+  orig: 100, 14
+  offset: 0, 0
+  index: -1
+Ashi_face_02
+  rotate: false
+  xy: 782, 2030
+  size: 88, 15
+  orig: 90, 20
+  offset: 0, 1
+  index: -1
+Ashi_face_03
+  rotate: true
+  xy: 1220, 853
+  size: 182, 278
+  orig: 182, 278
+  offset: 0, 0
+  index: -1
+Ashi_face_04
+  rotate: false
+  xy: 170, 1974
+  size: 102, 33
+  orig: 102, 33
+  offset: 0, 0
+  index: -1
+Ashi_face_05
+  rotate: false
+  xy: 1697, 2023
+  size: 73, 22
+  orig: 73, 22
+  offset: 0, 0
+  index: -1
+Ashi_face_06
+  rotate: false
+  xy: 1032, 1845
+  size: 207, 57
+  orig: 207, 57
+  offset: 0, 0
+  index: -1
+Ashi_hair_A01
+  rotate: false
+  xy: 1182, 1765
+  size: 206, 68
+  orig: 206, 68
+  offset: 0, 0
+  index: -1
+Ashi_hair_A02
+  rotate: false
+  xy: 188, 1805
+  size: 151, 66
+  orig: 156, 66
+  offset: 2, 0
+  index: -1
+Ashi_hair_A04
+  rotate: true
+  xy: 1675, 1662
+  size: 90, 122
+  orig: 95, 123
+  offset: 0, 1
+  index: -1
+Ashi_leg_A_01
+  rotate: true
+  xy: 724, 1701
+  size: 76, 131
+  orig: 76, 131
+  offset: 0, 0
+  index: -1
+Ashi_leg_A_02
+  rotate: false
+  xy: 1546, 1831
+  size: 105, 62
+  orig: 106, 62
+  offset: 1, 0
+  index: -1
+Ashi_leg_A_03
+  rotate: false
+  xy: 1283, 1951
+  size: 92, 40
+  orig: 92, 40
+  offset: 0, 0
+  index: -1
+Ashi_leg_A_04
+  rotate: false
+  xy: 274, 1972
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+Ashi_leg_A_05
+  rotate: false
+  xy: 1236, 1994
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Ashi_leg_A_06
+  rotate: false
+  xy: 1593, 1991
+  size: 72, 30
+  orig: 72, 31
+  offset: 0, 1
+  index: -1
+Ashi_leg_A_07
+  rotate: false
+  xy: 275, 281
+  size: 721, 211
+  orig: 1002, 246
+  offset: 281, 0
+  index: -1
+Ashi_leg_A_07_2
+  rotate: false
+  xy: 1272, 1037
+  size: 320, 165
+  orig: 324, 171
+  offset: 4, 6
+  index: -1
+Ashi_leg_A_08
+  rotate: false
+  xy: 759, 944
+  size: 459, 166
+  orig: 459, 166
+  offset: 0, 0
+  index: -1
+Ashi_leg_A_09
+  rotate: false
+  xy: 998, 159
+  size: 568, 265
+  orig: 568, 265
+  offset: 0, 0
+  index: -1
+Ashi_leg_B_01
+  rotate: true
+  xy: 1772, 2023
+  size: 22, 187
+  orig: 25, 187
+  offset: 3, 0
+  index: -1
+Ashi_leg_B_02
+  rotate: true
+  xy: 1512, 1949
+  size: 41, 65
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+Ashi_leg_B_03
+  rotate: true
+  xy: 1579, 1947
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+Ashi_leg_B_04
+  rotate: false
+  xy: 1746, 1946
+  size: 69, 42
+  orig: 69, 43
+  offset: 0, 0
+  index: -1
+Ashi_leg_B_05
+  rotate: false
+  xy: 2, 1933
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+Ashi_leg_B_06
+  rotate: true
+  xy: 2, 1810
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+Ashi_leg_B_07
+  rotate: false
+  xy: 2, 39
+  size: 745, 240
+  orig: 745, 259
+  offset: 0, 0
+  index: -1
+Ashi_leg_B_07_2
+  rotate: false
+  xy: 2, 965
+  size: 195, 166
+  orig: 200, 202
+  offset: 5, 0
+  index: -1
+Ashi_leg_B_07_2_a
+  rotate: true
+  xy: 888, 1486
+  size: 119, 169
+  orig: 119, 173
+  offset: 0, 0
+  index: -1
+Ashi_leg_B_08
+  rotate: false
+  xy: 1353, 1314
+  size: 343, 125
+  orig: 343, 130
+  offset: 0, 5
+  index: -1
+Ashi_leg_C_01
+  rotate: false
+  xy: 897, 2001
+  size: 239, 26
+  orig: 239, 26
+  offset: 0, 0
+  index: -1
+Ashi_leg_C_02
+  rotate: false
+  xy: 2, 1876
+  size: 165, 51
+  orig: 165, 52
+  offset: 0, 0
+  index: -1
+Ashi_leg_C_03
+  rotate: true
+  xy: 555, 1918
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+Ashi_leg_C_04
+  rotate: true
+  xy: 1653, 1828
+  size: 62, 97
+  orig: 62, 97
+  offset: 0, 0
+  index: -1
+Ashi_leg_C_05
+  rotate: false
+  xy: 1291, 1899
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+Ashi_leg_C_06
+  rotate: true
+  xy: 637, 1964
+  size: 37, 68
+  orig: 37, 68
+  offset: 0, 0
+  index: -1
+Ashi_leg_C_07
+  rotate: true
+  xy: 359, 1972
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+Ashi_leg_C_08
+  rotate: false
+  xy: 169, 1873
+  size: 191, 51
+  orig: 191, 54
+  offset: 0, 3
+  index: -1
+Ashi_leg_C_09
+  rotate: true
+  xy: 1009, 684
+  size: 167, 616
+  orig: 176, 616
+  offset: 4, 0
+  index: -1
+Ashi_leg_C_09a
+  rotate: true
+  xy: 2, 1133
+  size: 151, 283
+  orig: 151, 283
+  offset: 0, 0
+  index: -1
+Ashi_leg_C_10
+  rotate: true
+  xy: 814, 1349
+  size: 120, 388
+  orig: 120, 402
+  offset: 0, 0
+  index: -1
+Ashi_leg_C_12
+  rotate: true
+  xy: 1810, 812
+  size: 294, 213
+  orig: 328, 213
+  offset: 34, 0
+  index: -1
+Ashi_shazi01
+  rotate: false
+  xy: 1192, 2027
+  size: 31, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+Ashi_shazi02
+  rotate: false
+  xy: 549, 2032
+  size: 27, 13
+  orig: 27, 14
+  offset: 0, 1
+  index: -1
+Ashi_toufa_B01
+  rotate: false
+  xy: 1817, 1945
+  size: 98, 43
+  orig: 98, 43
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B02
+  rotate: false
+  xy: 1174, 1953
+  size: 107, 39
+  orig: 107, 39
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B03
+  rotate: true
+  xy: 1627, 557
+  size: 253, 368
+  orig: 253, 368
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B04
+  rotate: false
+  xy: 648, 750
+  size: 359, 192
+  orig: 359, 192
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B06
+  rotate: true
+  xy: 471, 494
+  size: 188, 798
+  orig: 188, 798
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B07
+  rotate: true
+  xy: 70, 2013
+  size: 22, 134
+  orig: 22, 134
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B08
+  rotate: false
+  xy: 206, 2009
+  size: 123, 23
+  orig: 123, 23
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B10
+  rotate: true
+  xy: 371, 1923
+  size: 44, 182
+  orig: 44, 182
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B11
+  rotate: true
+  xy: 632, 1916
+  size: 46, 203
+  orig: 48, 203
+  offset: 2, 0
+  index: -1
+Ashi_toufa_B12
+  rotate: true
+  xy: 1478, 1568
+  size: 92, 243
+  orig: 92, 243
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B13
+  rotate: true
+  xy: 499, 2005
+  size: 24, 171
+  orig: 24, 171
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B16
+  rotate: true
+  xy: 1074, 1904
+  size: 45, 215
+  orig: 45, 215
+  offset: 0, 0
+  index: -1
+Ashi_toushi_CC01
+  rotate: false
+  xy: 707, 1964
+  size: 129, 36
+  orig: 129, 36
+  offset: 0, 0
+  index: -1
+Ashi_toushi_CC02
+  rotate: false
+  xy: 433, 1969
+  size: 117, 34
+  orig: 118, 34
+  offset: 0, 0
+  index: -1
+Ashi_toushi_CC03
+  rotate: false
+  xy: 1646, 1754
+  size: 171, 71
+  orig: 171, 71
+  offset: 0, 0
+  index: -1
+Ashi_toushi_CC04
+  rotate: false
+  xy: 838, 1963
+  size: 124, 36
+  orig: 124, 36
+  offset: 0, 0
+  index: -1
+Ashi_xl_01
+  rotate: false
+  xy: 802, 1205
+  size: 185, 142
+  orig: 185, 142
+  offset: 0, 0
+  index: -1
+Ashi_xl_02
+  rotate: false
+  xy: 1489, 1670
+  size: 184, 82
+  orig: 184, 84
+  offset: 0, 0
+  index: -1
+Ashi_xl_03
+  rotate: false
+  xy: 1723, 1410
+  size: 190, 137
+  orig: 195, 139
+  offset: 0, 2
+  index: -1
+Ashi_xl_04
+  rotate: false
+  xy: 1799, 1647
+  size: 193, 82
+  orig: 193, 82
+  offset: 0, 0
+  index: -1
+Ashi_zuiba
+  rotate: false
+  xy: 134, 2038
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+BT_AYU_A02
+  rotate: true
+  xy: 872, 2030
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+BT_AYU_A03
+  rotate: true
+  xy: 469, 2033
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+BT_AYU_A04
+  rotate: true
+  xy: 490, 2033
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+BT_AYU_B01
+  rotate: false
+  xy: 1667, 1990
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+BT_AYU_B02
+  rotate: false
+  xy: 1543, 1992
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+BT_AYU_B03
+  rotate: true
+  xy: 362, 1867
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+BT_AYU_B04
+  rotate: false
+  xy: 1961, 2023
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+BT_AYU_B05
+  rotate: false
+  xy: 1987, 2021
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+BT_AYU_B06
+  rotate: false
+  xy: 1594, 936
+  size: 214, 176
+  orig: 214, 176
+  offset: 0, 0
+  index: -1
+BT_AYU_C01
+  rotate: true
+  xy: 1721, 1990
+  size: 31, 98
+  orig: 31, 98
+  offset: 0, 0
+  index: -1
+BT_AYU_C02
+  rotate: true
+  xy: 1821, 1990
+  size: 31, 98
+  orig: 31, 98
+  offset: 0, 0
+  index: -1
+BT_AYU_C03
+  rotate: true
+  xy: 2, 1639
+  size: 89, 227
+  orig: 89, 227
+  offset: 0, 0
+  index: -1
+BT_AYU_C04
+  rotate: false
+  xy: 2, 318
+  size: 271, 266
+  orig: 271, 266
+  offset: 0, 0
+  index: -1
+BT_AYU_C05
+  rotate: false
+  xy: 1354, 1451
+  size: 241, 115
+  orig: 241, 122
+  offset: 0, 0
+  index: -1
+BT_AYU_C06
+  rotate: true
+  xy: 1723, 1549
+  size: 96, 210
+  orig: 96, 210
+  offset: 0, 0
+  index: -1
+BT_AYU_C07
+  rotate: true
+  xy: 1621, 285
+  size: 270, 305
+  orig: 270, 311
+  offset: 0, 0
+  index: -1
+BT_AYU_C08
+  rotate: false
+  xy: 1089, 1587
+  size: 227, 91
+  orig: 227, 91
+  offset: 0, 0
+  index: -1
+BT_AYU_C09
+  rotate: true
+  xy: 1361, 1899
+  size: 49, 98
+  orig: 49, 106
+  offset: 0, 0
+  index: -1
+BT_AYU_C10
+  rotate: false
+  xy: 537, 1507
+  size: 141, 106
+  orig: 141, 106
+  offset: 0, 0
+  index: -1
+BT_AYU_D01
+  rotate: false
+  xy: 680, 1504
+  size: 206, 101
+  orig: 206, 101
+  offset: 0, 0
+  index: -1
+BT_AYU_D02
+  rotate: false
+  xy: 672, 2003
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+BT_AYU_D03
+  rotate: false
+  xy: 1138, 1997
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+BT_AYU_D04
+  rotate: false
+  xy: 1597, 1441
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+BT_AYU_E01
+  rotate: true
+  xy: 1752, 1827
+  size: 63, 74
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+BT_AYU_E02
+  rotate: false
+  xy: 93, 1807
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+BT_AYU_F01
+  rotate: false
+  xy: 1646, 1947
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+BT_AYU_F02
+  rotate: true
+  xy: 552, 1969
+  size: 34, 83
+  orig: 34, 83
+  offset: 0, 0
+  index: -1
+BT_AYU_G01
+  rotate: true
+  xy: 510, 2033
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+BT_AYU_G02
+  rotate: false
+  xy: 75, 1929
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+BT_AYU_H01
+  rotate: true
+  xy: 528, 2033
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+BT_AYU_H02
+  rotate: false
+  xy: 1048, 1959
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+BT_AYU_I01
+  rotate: true
+  xy: 591, 1719
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1
+BT_AYU_I02
+  rotate: false
+  xy: 1568, 3
+  size: 346, 280
+  orig: 346, 280
+  offset: 0, 0
+  index: -1
+BT_AYU_I03
+  rotate: false
+  xy: 857, 1696
+  size: 114, 77
+  orig: 114, 77
+  offset: 0, 0
+  index: -1
+BT_AYU_J01
+  rotate: true
+  xy: 686, 1607
+  size: 85, 401
+  orig: 85, 401
+  offset: 0, 0
+  index: -1
+BT_AYU_J02
+  rotate: true
+  xy: 287, 1112
+  size: 90, 983
+  orig: 90, 983
+  offset: 0, 0
+  index: -1
+BT_AYU_J04
+  rotate: false
+  xy: 989, 1204
+  size: 696, 108
+  orig: 696, 108
+  offset: 0, 0
+  index: -1
+ashi_ayu_star
+  rotate: false
+  xy: 1132, 1955
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ashi_buzui_aaaaa000
+  rotate: false
+  xy: 436, 2006
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+ashi_fengshan
+  rotate: false
+  xy: 133, 1976
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+bt001a
+  rotate: false
+  xy: 1152, 2029
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+bt001c
+  rotate: false
+  xy: 341, 1798
+  size: 86, 67
+  orig: 106, 85
+  offset: 12, 10
+  index: -1
+butu_Ashi_L_01
+  rotate: false
+  xy: 2, 1979
+  size: 129, 32
+  orig: 133, 32
+  offset: 4, 0
+  index: -1
+butu_Ashi_L_03
+  rotate: false
+  xy: 680, 2031
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+butu_Ashi_L_04
+  rotate: false
+  xy: 184, 2037
+  size: 13, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+butu_Ashi_L_05
+  rotate: true
+  xy: 2, 2041
+  size: 4, 5
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+butu_Ashi_L_06
+  rotate: false
+  xy: 454, 2034
+  size: 13, 11
+  orig: 14, 11
+  offset: 1, 0
+  index: -1
+butu_Ashi_L_07
+  rotate: true
+  xy: 1687, 1114
+  size: 155, 164
+  orig: 155, 164
+  offset: 0, 0
+  index: -1
+butu_Ashi_L_08
+  rotate: false
+  xy: 550, 1859
+  size: 232, 55
+  orig: 232, 70
+  offset: 0, 15
+  index: -1
+butu_Ashi_L_09
+  rotate: true
+  xy: 1853, 1108
+  size: 161, 168
+  orig: 161, 290
+  offset: 0, 12
+  index: -1
+butu_Ashi_L_10
+  rotate: false
+  xy: 1828, 1816
+  size: 197, 62
+  orig: 197, 62
+  offset: 0, 0
+  index: -1
+butu_Ashi_L_11
+  rotate: false
+  xy: 1485, 2024
+  size: 114, 21
+  orig: 116, 24
+  offset: 2, 1
+  index: -1
+butu_Ashi_M_01
+  rotate: true
+  xy: 1698, 1271
+  size: 137, 278
+  orig: 137, 278
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_01
+  rotate: false
+  xy: 702, 2031
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_02
+  rotate: true
+  xy: 1911, 1880
+  size: 58, 71
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_03
+  rotate: false
+  xy: 1225, 2027
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_04
+  rotate: false
+  xy: 2, 2015
+  size: 66, 22
+  orig: 66, 22
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_05
+  rotate: false
+  xy: 1173, 2028
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_05b
+  rotate: false
+  xy: 231, 2036
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_06
+  rotate: true
+  xy: 718, 2031
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_06b
+  rotate: false
+  xy: 199, 2037
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_07
+  rotate: true
+  xy: 1390, 1675
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_07a
+  rotate: false
+  xy: 249, 2036
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_07b
+  rotate: false
+  xy: 215, 2037
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+butu_Ashi_R_08
+  rotate: false
+  xy: 1204, 1328
+  size: 147, 141
+  orig: 147, 141
+  offset: 0, 0
+  index: -1
+butu_Ashi_dz_01
+  rotate: false
+  xy: 1935, 1496
+  size: 110, 149
+  orig: 110, 149
+  offset: 0, 0
+  index: -1
+butu_Ashi_dz_02
+  rotate: false
+  xy: 1318, 1580
+  size: 158, 93
+  orig: 158, 93
+  offset: 0, 0
+  index: -1
+butu_Ashi_dz_03
+  rotate: false
+  xy: 1138, 1683
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+yanlei0001
+  rotate: true
+  xy: 1390, 1762
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+yanlei0002
+  rotate: true
+  xy: 1518, 1758
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+yanlei0003
+  rotate: true
+  xy: 1819, 1743
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+yanlei0004
+  rotate: true
+  xy: 2, 1734
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+
+Ashi012.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ashi_body_01
+  rotate: false
+  xy: 757, 593
+  size: 807, 355
+  orig: 809, 355
+  offset: 2, 0
+  index: -1
+Ashi_butu01
+  rotate: false
+  xy: 1566, 970
+  size: 283, 666
+  orig: 283, 666
+  offset: 0, 0
+  index: -1
+Ashi_butu02
+  rotate: false
+  xy: 1203, 136
+  size: 696, 455
+  orig: 696, 455
+  offset: 0, 0
+  index: -1
+Ashi_face_07
+  rotate: false
+  xy: 1566, 684
+  size: 293, 284
+  orig: 294, 284
+  offset: 0, 0
+  index: -1
+Ashi_leg_B_09
+  rotate: true
+  xy: 1300, 1013
+  size: 623, 245
+  orig: 623, 245
+  offset: 0, 0
+  index: -1
+Ashi_leg_C_11
+  rotate: false
+  xy: 1036, 968
+  size: 262, 668
+  orig: 262, 673
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B09
+  rotate: true
+  xy: 1036, 1638
+  size: 318, 920
+  orig: 318, 960
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B14
+  rotate: true
+  xy: 757, 950
+  size: 1006, 277
+  orig: 1006, 277
+  offset: 0, 0
+  index: -1
+Ashi_toufa_B15
+  rotate: false
+  xy: 2, 22
+  size: 1199, 474
+  orig: 1199, 474
+  offset: 0, 0
+  index: -1
+Ashi_yyq_02
+  rotate: false
+  xy: 2, 498
+  size: 753, 1458
+  orig: 753, 1458
+  offset: 0, 0
+  index: -1

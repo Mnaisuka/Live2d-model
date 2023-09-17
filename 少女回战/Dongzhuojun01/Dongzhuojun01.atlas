@@ -1,0 +1,55 @@
+
+Dongzhuojun01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DOngzhuoa1
+  rotate: false
+  xy: 2, 70
+  size: 1514, 1805
+  orig: 1514, 1805
+  offset: 0, 0
+  index: -1
+DOngzhuoa2
+  rotate: false
+  xy: 282, 19
+  size: 101, 49
+  orig: 220, 90
+  offset: 119, 41
+  index: -1
+DOngzhuoa2b
+  rotate: false
+  xy: 2, 2
+  size: 85, 66
+  orig: 220, 90
+  offset: 0, 0
+  index: -1
+DOngzhuoa3
+  rotate: false
+  xy: 176, 7
+  size: 104, 61
+  orig: 233, 103
+  offset: 129, 42
+  index: -1
+DOngzhuoa3b
+  rotate: false
+  xy: 89, 4
+  size: 85, 64
+  orig: 233, 103
+  offset: 0, 0
+  index: -1
+DOngzhuoa4
+  rotate: false
+  xy: 443, 41
+  size: 47, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+DOngzhuoa5
+  rotate: false
+  xy: 385, 41
+  size: 56, 27
+  orig: 56, 27
+  offset: 0, 0
+  index: -1

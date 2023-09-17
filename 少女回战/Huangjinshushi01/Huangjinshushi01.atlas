@@ -1,0 +1,41 @@
+
+Huangjinshushi01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hjss01
+  rotate: true
+  xy: 1386, 1055
+  size: 175, 20
+  orig: 175, 20
+  offset: 0, 0
+  index: -1
+hjss02
+  rotate: false
+  xy: 1386, 1004
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+hjss03
+  rotate: true
+  xy: 1386, 1028
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+hjss04
+  rotate: true
+  xy: 1386, 1232
+  size: 205, 51
+  orig: 205, 51
+  offset: 0, 0
+  index: -1
+hjss05
+  rotate: false
+  xy: 2, 96
+  size: 1382, 1341
+  orig: 1382, 1341
+  offset: 0, 0
+  index: -1

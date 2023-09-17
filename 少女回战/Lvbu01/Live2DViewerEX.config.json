@@ -1,0 +1,36 @@
+{
+	"type":9,
+	"controllers":{
+		"intimacy_system":{
+		},
+		"slot_opacity":{
+		},
+		"slot_color":{
+		}
+	},
+	"motions":{
+		"shake":[{
+				"file":"Open"
+			}],
+		"idle":[{
+				"file":"Stand"
+			}],
+		"tap":[{
+				"file":"Click"
+			},{
+				"file":"Special01"
+			},{
+				"file":"Special02"
+			}]
+	},
+	"options":{
+		"edge_padding":false,
+		"shader":"Skeleton-Straight-Alpha"
+	},
+	"skeleton":"Lvbu01.skel",
+	"atlases":[{
+			"atlas":"Lvbu01.atlas",
+			"tex_names":["Lvbu01","Lvbu012","Lvbu013"],
+			"textures":["Lvbu01.png","Lvbu012.png","Lvbu013.png"]
+		}]
+}

@@ -1,0 +1,48 @@
+
+Huangjinjun02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Huangjinjun02_1
+  rotate: false
+  xy: 2, 387
+  size: 824, 1511
+  orig: 824, 1511
+  offset: 0, 0
+  index: -1
+Huangjinjun02_2
+  rotate: false
+  xy: 440, 299
+  size: 205, 86
+  orig: 205, 86
+  offset: 0, 0
+  index: -1
+Huangjinjun02_3
+  rotate: false
+  xy: 440, 273
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+Huangjinjun02_4
+  rotate: true
+  xy: 647, 279
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Huangjinjun02_5
+  rotate: true
+  xy: 2, 2
+  size: 383, 436
+  orig: 383, 436
+  offset: 0, 0
+  index: -1
+Huangjinjun02_6
+  rotate: false
+  xy: 647, 313
+  size: 205, 72
+  orig: 205, 72
+  offset: 0, 0
+  index: -1

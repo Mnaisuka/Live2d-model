@@ -1,0 +1,41 @@
+
+Huangjinjiandu01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hjjd01
+  rotate: true
+  xy: 1647, 1227
+  size: 58, 15
+  orig: 58, 15
+  offset: 0, 0
+  index: -1
+Hjjd02
+  rotate: true
+  xy: 1647, 1351
+  size: 169, 41
+  orig: 169, 41
+  offset: 0, 0
+  index: -1
+Hjjd03
+  rotate: true
+  xy: 1647, 1522
+  size: 171, 46
+  orig: 171, 46
+  offset: 0, 0
+  index: -1
+Hjjd04
+  rotate: true
+  xy: 1647, 1287
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+Hjjd05
+  rotate: false
+  xy: 2, 526
+  size: 1643, 1167
+  orig: 1643, 1167
+  offset: 0, 0
+  index: -1

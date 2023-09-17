@@ -1,0 +1,727 @@
+
+Guanping01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GP02_ARM_01A
+  rotate: true
+  xy: 1307, 884
+  size: 366, 122
+  orig: 366, 122
+  offset: 0, 0
+  index: -1
+GP02_ARM_01B
+  rotate: true
+  xy: 1342, 146
+  size: 292, 107
+  orig: 292, 107
+  offset: 0, 0
+  index: -1
+GP02_ARM_01C
+  rotate: true
+  xy: 1927, 398
+  size: 149, 80
+  orig: 149, 80
+  offset: 0, 0
+  index: -1
+GP02_ARM_01D
+  rotate: true
+  xy: 293, 771
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+GP02_ARM_01E
+  rotate: true
+  xy: 1265, 854
+  size: 94, 36
+  orig: 94, 36
+  offset: 0, 0
+  index: -1
+GP02_ARM_02A
+  rotate: true
+  xy: 842, 13
+  size: 44, 221
+  orig: 44, 221
+  offset: 0, 0
+  index: -1
+GP02_ARM_02B
+  rotate: true
+  xy: 549, 1697
+  size: 129, 1017
+  orig: 129, 1017
+  offset: 0, 0
+  index: -1
+GP02_BZ
+  rotate: false
+  xy: 1415, 1399
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+GP02_ERDUO
+  rotate: true
+  xy: 2009, 446
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+GP02_JIANJIA_01
+  rotate: false
+  xy: 1562, 52
+  size: 142, 139
+  orig: 142, 140
+  offset: 0, 1
+  index: -1
+GP02_JIANJIA_02
+  rotate: true
+  xy: 145, 12
+  size: 124, 202
+  orig: 124, 203
+  offset: 0, 0
+  index: -1
+GP02_JIANJIA_03
+  rotate: false
+  xy: 1768, 417
+  size: 157, 130
+  orig: 157, 131
+  offset: 0, 0
+  index: -1
+GP02_LEG_01A
+  rotate: false
+  xy: 379, 343
+  size: 213, 481
+  orig: 213, 490
+  offset: 0, 0
+  index: -1
+GP02_LEG_01B
+  rotate: false
+  xy: 549, 1252
+  size: 864, 232
+  orig: 864, 232
+  offset: 0, 0
+  index: -1
+GP02_LEG_02A
+  rotate: false
+  xy: 1919, 1127
+  size: 25, 82
+  orig: 25, 82
+  offset: 0, 0
+  index: -1
+GP02_LEG_02B
+  rotate: true
+  xy: 1443, 1399
+  size: 296, 168
+  orig: 296, 168
+  offset: 0, 0
+  index: -1
+GP02_LEG_02C
+  rotate: false
+  xy: 1185, 139
+  size: 155, 250
+  orig: 155, 250
+  offset: 0, 0
+  index: -1
+GP02_LEG_02D
+  rotate: true
+  xy: 145, 138
+  size: 631, 232
+  orig: 631, 232
+  offset: 0, 0
+  index: -1
+GP02_LEG_02E
+  rotate: true
+  xy: 1187, 391
+  size: 436, 117
+  orig: 436, 117
+  offset: 0, 0
+  index: -1
+GP02_LIAN
+  rotate: true
+  xy: 936, 194
+  size: 224, 247
+  orig: 224, 247
+  offset: 0, 0
+  index: -1
+GP02_SHIWU_01A
+  rotate: true
+  xy: 832, 93
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+GP02_SHIWU_01B
+  rotate: false
+  xy: 349, 2
+  size: 180, 87
+  orig: 180, 87
+  offset: 0, 0
+  index: -1
+GP02_SHIWU_01D
+  rotate: false
+  xy: 1116, 141
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+GP02_SHIWU_01E
+  rotate: true
+  xy: 1459, 926
+  size: 57, 13
+  orig: 57, 13
+  offset: 0, 0
+  index: -1
+GP02_SHIWU_01F
+  rotate: false
+  xy: 1098, 50
+  size: 16, 52
+  orig: 16, 52
+  offset: 0, 0
+  index: -1
+GP02_SHIWU_02A
+  rotate: false
+  xy: 1451, 114
+  size: 54, 324
+  orig: 54, 324
+  offset: 0, 0
+  index: -1
+GP02_SHIWU_02B
+  rotate: true
+  xy: 293, 794
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+GP02_SHIWU_0C
+  rotate: false
+  xy: 1568, 1745
+  size: 23, 81
+  orig: 23, 81
+  offset: 0, 0
+  index: -1
+GP02_SHOU_002A
+  rotate: true
+  xy: 1849, 1043
+  size: 105, 68
+  orig: 105, 68
+  offset: 0, 0
+  index: -1
+GP02_SHOU_002B
+  rotate: false
+  xy: 1946, 708
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+GP02_SHOU_002C
+  rotate: false
+  xy: 1953, 670
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+GP02_SHOU_002D
+  rotate: true
+  xy: 1990, 605
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+GP02_SHOU_002E
+  rotate: true
+  xy: 2027, 713
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+GP02_ST_01A
+  rotate: true
+  xy: 531, 2
+  size: 27, 142
+  orig: 27, 142
+  offset: 0, 0
+  index: -1
+GP02_ST_01B
+  rotate: false
+  xy: 1613, 1443
+  size: 243, 385
+  orig: 243, 439
+  offset: 0, 0
+  index: -1
+GP02_ST_01C
+  rotate: false
+  xy: 594, 430
+  size: 340, 397
+  orig: 340, 397
+  offset: 0, 0
+  index: -1
+GP02_ST_01D
+  rotate: true
+  xy: 936, 420
+  size: 407, 249
+  orig: 407, 249
+  offset: 0, 0
+  index: -1
+GP02_TF_001A
+  rotate: false
+  xy: 842, 59
+  size: 254, 43
+  orig: 254, 43
+  offset: 0, 0
+  index: -1
+GP02_TF_001B
+  rotate: false
+  xy: 293, 826
+  size: 254, 1220
+  orig: 254, 1220
+  offset: 0, 0
+  index: -1
+GP02_TF_001C
+  rotate: false
+  xy: 1415, 1420
+  size: 20, 64
+  orig: 20, 64
+  offset: 0, 0
+  index: -1
+GP02_TF_002A
+  rotate: true
+  xy: 2, 18
+  size: 751, 141
+  orig: 751, 141
+  offset: 0, 0
+  index: -1
+GP02_TF_002B
+  rotate: true
+  xy: 549, 829
+  size: 119, 714
+  orig: 119, 714
+  offset: 0, 0
+  index: -1
+GP02_TF_002C
+  rotate: false
+  xy: 1869, 1211
+  size: 177, 835
+  orig: 177, 835
+  offset: 0, 0
+  index: -1
+GP02_TF_002D
+  rotate: true
+  xy: 549, 1486
+  size: 209, 892
+  orig: 209, 892
+  offset: 0, 0
+  index: -1
+GP02_TF_002E
+  rotate: false
+  xy: 2, 771
+  size: 289, 1275
+  orig: 289, 1275
+  offset: 0, 0
+  index: -1
+GP02_TF_002F
+  rotate: true
+  xy: 379, 91
+  size: 84, 451
+  orig: 84, 451
+  offset: 0, 0
+  index: -1
+GP02_TF_002G
+  rotate: false
+  xy: 594, 339
+  size: 340, 89
+  orig: 340, 89
+  offset: 0, 0
+  index: -1
+GP02_TF_002H
+  rotate: true
+  xy: 549, 950
+  size: 300, 756
+  orig: 300, 756
+  offset: 0, 0
+  index: -1
+GP02_TF_002I
+  rotate: true
+  xy: 1431, 985
+  size: 412, 108
+  orig: 412, 108
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_01A
+  rotate: false
+  xy: 1539, 588
+  size: 101, 395
+  orig: 101, 398
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_01B
+  rotate: false
+  xy: 1628, 1043
+  size: 106, 398
+  orig: 106, 398
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_01C
+  rotate: false
+  xy: 1507, 222
+  size: 53, 216
+  orig: 53, 216
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_01D
+  rotate: true
+  xy: 1474, 557
+  size: 426, 63
+  orig: 426, 63
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_01F
+  rotate: false
+  xy: 531, 31
+  size: 309, 58
+  orig: 309, 58
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_02A
+  rotate: true
+  xy: 822, 208
+  size: 129, 89
+  orig: 129, 89
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_02B
+  rotate: false
+  xy: 1116, 54
+  size: 226, 83
+  orig: 226, 86
+  offset: 0, 3
+  index: -1
+GP02_TOUFA_02C
+  rotate: false
+  xy: 1595, 1830
+  size: 253, 105
+  orig: 262, 105
+  offset: 9, 0
+  index: -1
+GP02_TOUFA_02D
+  rotate: true
+  xy: 1431, 897
+  size: 86, 26
+  orig: 86, 26
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_02E
+  rotate: true
+  xy: 1736, 1150
+  size: 291, 131
+  orig: 293, 131
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_02F
+  rotate: true
+  xy: 1946, 768
+  size: 191, 100
+  orig: 191, 100
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_02G
+  rotate: true
+  xy: 1562, 231
+  size: 154, 175
+  orig: 154, 175
+  offset: 0, 0
+  index: -1
+GP02_TOUFA_03A
+  rotate: true
+  xy: 379, 177
+  size: 160, 441
+  orig: 167, 441
+  offset: 0, 0
+  index: -1
+GP02_TOU_01A
+  rotate: false
+  xy: 1768, 283
+  size: 155, 132
+  orig: 155, 133
+  offset: 0, 0
+  index: -1
+GP02_TOU_01B
+  rotate: true
+  xy: 1925, 261
+  size: 135, 71
+  orig: 135, 71
+  offset: 0, 0
+  index: -1
+GP02_TOU_01C
+  rotate: false
+  xy: 1706, 66
+  size: 64, 125
+  orig: 64, 125
+  offset: 0, 0
+  index: -1
+GP02_Wq_01A
+  rotate: false
+  xy: 549, 1828
+  size: 1044, 107
+  orig: 1044, 107
+  offset: 0, 0
+  index: -1
+GP02_Wq_01B
+  rotate: false
+  xy: 1736, 1043
+  size: 111, 105
+  orig: 111, 105
+  offset: 0, 0
+  index: -1
+GP02_Wq_01C
+  rotate: false
+  xy: 1739, 237
+  size: 168, 44
+  orig: 168, 44
+  offset: 0, 0
+  index: -1
+GP02_XIONG
+  rotate: true
+  xy: 1946, 961
+  size: 248, 100
+  orig: 248, 100
+  offset: 0, 0
+  index: -1
+GP02_YANJING_01A
+  rotate: false
+  xy: 1613, 1399
+  size: 9, 42
+  orig: 9, 42
+  offset: 0, 0
+  index: -1
+GP02_YANJING_01B
+  rotate: true
+  xy: 1539, 554
+  size: 32, 74
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+GP02_YANJING_01C
+  rotate: false
+  xy: 1628, 1004
+  size: 12, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+GP02_YANJING_01D
+  rotate: false
+  xy: 1306, 415
+  size: 9, 23
+  orig: 9, 24
+  offset: 0, 1
+  index: -1
+GP02_YANJING_01E
+  rotate: false
+  xy: 1437, 1476
+  size: 4, 8
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+GP02_YANJING_01F
+  rotate: false
+  xy: 349, 126
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+GP02_YANJING_01G
+  rotate: false
+  xy: 2039, 480
+  size: 7, 30
+  orig: 7, 33
+  offset: 0, 2
+  index: -1
+GP02_YANJING_02A
+  rotate: false
+  xy: 913, 286
+  size: 21, 51
+  orig: 22, 51
+  offset: 1, 0
+  index: -1
+GP02_YANJING_02B
+  rotate: true
+  xy: 2027, 708
+  size: 3, 10
+  orig: 3, 10
+  offset: 0, 0
+  index: -1
+GP02_YANJING_02C
+  rotate: false
+  xy: 1739, 379
+  size: 6, 6
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+GP02_YANJING_02D
+  rotate: true
+  xy: 1459, 915
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+GP02_YANJING_02E
+  rotate: false
+  xy: 1628, 1011
+  size: 8, 30
+  orig: 8, 32
+  offset: 0, 2
+  index: -1
+GP02_YANJING_03A
+  rotate: false
+  xy: 1909, 272
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+GP02_YANJING_03B
+  rotate: false
+  xy: 822, 200
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+GP02_YANJING_03C
+  rotate: true
+  xy: 2009, 512
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+GP02_YANJING_03D
+  rotate: false
+  xy: 913, 246
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+GP02_YANJING_03E
+  rotate: false
+  xy: 1953, 608
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+GP02_YANJING_03F
+  rotate: true
+  xy: 675, 2
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+GP02_YANJING_03G
+  rotate: false
+  xy: 2026, 633
+  size: 20, 73
+  orig: 20, 73
+  offset: 0, 0
+  index: -1
+GP02_YANJING_03H
+  rotate: false
+  xy: 1850, 1897
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01A
+  rotate: false
+  xy: 1642, 703
+  size: 302, 338
+  orig: 302, 338
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01B
+  rotate: false
+  xy: 1562, 387
+  size: 204, 160
+  orig: 204, 160
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01C
+  rotate: true
+  xy: 1642, 549
+  size: 38, 390
+  orig: 38, 390
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01D
+  rotate: false
+  xy: 2, 5
+  size: 54, 11
+  orig: 54, 11
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01E
+  rotate: true
+  xy: 1642, 589
+  size: 112, 309
+  orig: 112, 309
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01F
+  rotate: false
+  xy: 1306, 440
+  size: 166, 442
+  orig: 166, 442
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01G
+  rotate: true
+  xy: 832, 104
+  size: 88, 282
+  orig: 88, 282
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01H
+  rotate: true
+  xy: 1507, 102
+  size: 118, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01I
+  rotate: true
+  xy: 1541, 989
+  size: 408, 85
+  orig: 408, 85
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01J
+  rotate: true
+  xy: 1562, 193
+  size: 36, 169
+  orig: 36, 169
+  offset: 0, 0
+  index: -1
+GP02_YIFU_01K
+  rotate: true
+  xy: 1474, 440
+  size: 115, 34
+  orig: 115, 38
+  offset: 0, 4
+  index: -1
+GP02_ZUIBA_01A
+  rotate: true
+  xy: 1265, 830
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+GP02_ZUIBA_01B
+  rotate: true
+  xy: 1568, 1710
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+GP02_ZUIBA_02
+  rotate: true
+  xy: 549, 1937
+  size: 109, 1318
+  orig: 109, 1318
+  offset: 0, 0
+  index: -1

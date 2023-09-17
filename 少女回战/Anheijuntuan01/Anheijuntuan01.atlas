@@ -1,0 +1,41 @@
+
+Anheijuntuan01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ANh1
+  rotate: false
+  xy: 2, 59
+  size: 1500, 1635
+  orig: 1500, 1635
+  offset: 0, 0
+  index: -1
+ANh2
+  rotate: false
+  xy: 167, 47
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+ANh3
+  rotate: false
+  xy: 135, 41
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+ANh4
+  rotate: true
+  xy: 77, 5
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+ANh5
+  rotate: true
+  xy: 2, 2
+  size: 55, 73
+  orig: 55, 73
+  offset: 0, 0
+  index: -1

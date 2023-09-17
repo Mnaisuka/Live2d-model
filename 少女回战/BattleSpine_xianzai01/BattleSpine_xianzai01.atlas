@@ -1,0 +1,440 @@
+
+BattleSpine_xianzai01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ajian_01
+  rotate: false
+  xy: 727, 397
+  size: 208, 197
+  orig: 224, 212
+  offset: 4, 3
+  index: -1
+Ajian_02
+  rotate: false
+  xy: 336, 105
+  size: 486, 290
+  orig: 491, 295
+  offset: 0, 0
+  index: -1
+Aqiu
+  rotate: false
+  xy: 922, 983
+  size: 39, 39
+  orig: 42, 43
+  offset: 2, 2
+  index: -1
+LeyesU
+  rotate: false
+  xy: 689, 1002
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Leyesd
+  rotate: false
+  xy: 358, 1011
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+My_01
+  rotate: true
+  xy: 523, 1005
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+My_02
+  rotate: false
+  xy: 2, 977
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+My_05_1
+  rotate: true
+  xy: 114, 1017
+  size: 5, 27
+  orig: 5, 27
+  offset: 0, 0
+  index: -1
+My_05_10
+  rotate: false
+  xy: 400, 1010
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+My_05_2
+  rotate: false
+  xy: 66, 1018
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+My_05_3
+  rotate: false
+  xy: 76, 1018
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+My_05_4
+  rotate: true
+  xy: 290, 1012
+  size: 10, 29
+  orig: 12, 29
+  offset: 2, 0
+  index: -1
+My_05_5
+  rotate: false
+  xy: 22, 1019
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+My_05_6
+  rotate: true
+  xy: 143, 1017
+  size: 5, 24
+  orig: 5, 24
+  offset: 0, 0
+  index: -1
+My_05_7
+  rotate: true
+  xy: 238, 1016
+  size: 6, 18
+  orig: 7, 18
+  offset: 1, 0
+  index: -1
+My_05_8
+  rotate: false
+  xy: 2, 1020
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+My_05_9
+  rotate: false
+  xy: 383, 1010
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+My_06_1
+  rotate: true
+  xy: 169, 1017
+  size: 5, 35
+  orig: 5, 35
+  offset: 0, 0
+  index: -1
+My_06_10
+  rotate: false
+  xy: 53, 1019
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+My_06_11
+  rotate: false
+  xy: 475, 1008
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+My_06_12
+  rotate: true
+  xy: 422, 1010
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+My_06_2
+  rotate: true
+  xy: 6, 1020
+  size: 2, 9
+  orig: 2, 9
+  offset: 0, 0
+  index: -1
+My_06_3
+  rotate: true
+  xy: 33, 1019
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+My_06_4
+  rotate: false
+  xy: 40, 1019
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+My_06_5
+  rotate: false
+  xy: 47, 1019
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+My_06_6
+  rotate: true
+  xy: 82, 1018
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+My_06_7
+  rotate: true
+  xy: 321, 1012
+  size: 10, 35
+  orig: 10, 35
+  offset: 0, 0
+  index: -1
+My_06_8
+  rotate: true
+  xy: 206, 1017
+  size: 5, 30
+  orig: 5, 30
+  offset: 0, 0
+  index: -1
+My_06_9
+  rotate: true
+  xy: 92, 1018
+  size: 4, 20
+  orig: 4, 21
+  offset: 0, 1
+  index: -1
+My_07
+  rotate: true
+  xy: 17, 1020
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+My_08
+  rotate: false
+  xy: 258, 1016
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+My_09
+  rotate: false
+  xy: 58, 1019
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+My_10_1
+  rotate: false
+  xy: 282, 865
+  size: 136, 89
+  orig: 136, 89
+  offset: 0, 0
+  index: -1
+My_10_2
+  rotate: false
+  xy: 67, 976
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+My_10_3
+  rotate: true
+  xy: 572, 947
+  size: 53, 121
+  orig: 54, 121
+  offset: 1, 0
+  index: -1
+My_10_4
+  rotate: true
+  xy: 144, 974
+  size: 40, 103
+  orig: 40, 105
+  offset: 0, 0
+  index: -1
+My_10_5
+  rotate: false
+  xy: 819, 998
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+My_10_6
+  rotate: true
+  xy: 819, 909
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+My_11_1
+  rotate: false
+  xy: 915, 884
+  size: 107, 94
+  orig: 107, 94
+  offset: 0, 0
+  index: -1
+My_11_2
+  rotate: false
+  xy: 270, 1014
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+My_11_3
+  rotate: true
+  xy: 492, 1007
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+My_12_1
+  rotate: false
+  xy: 695, 935
+  size: 122, 64
+  orig: 132, 68
+  offset: 9, 0
+  index: -1
+My_12_10
+  rotate: false
+  xy: 2, 759
+  size: 488, 84
+  orig: 491, 102
+  offset: 3, 0
+  index: -1
+My_12_11
+  rotate: true
+  xy: 420, 845
+  size: 100, 257
+  orig: 100, 257
+  offset: 0, 0
+  index: -1
+My_12_12
+  rotate: true
+  xy: 477, 950
+  size: 52, 93
+  orig: 52, 93
+  offset: 0, 0
+  index: -1
+My_12_2
+  rotate: false
+  xy: 963, 980
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+My_12_3
+  rotate: false
+  xy: 2, 903
+  size: 278, 58
+  orig: 278, 58
+  offset: 0, 0
+  index: -1
+My_12_4
+  rotate: true
+  xy: 2, 251
+  size: 203, 332
+  orig: 203, 332
+  offset: 0, 0
+  index: -1
+My_12_5
+  rotate: false
+  xy: 679, 767
+  size: 181, 140
+  orig: 181, 140
+  offset: 0, 0
+  index: -1
+My_12_6
+  rotate: false
+  xy: 883, 985
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+My_12_7
+  rotate: false
+  xy: 570, 1004
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+My_12_8
+  rotate: false
+  xy: 354, 956
+  size: 121, 50
+  orig: 123, 50
+  offset: 0, 0
+  index: -1
+My_12_9
+  rotate: false
+  xy: 2, 456
+  size: 476, 112
+  orig: 476, 112
+  offset: 0, 0
+  index: -1
+My_13_1
+  rotate: false
+  xy: 733, 596
+  size: 199, 169
+  orig: 220, 169
+  offset: 21, 0
+  index: -1
+My_13_2
+  rotate: false
+  xy: 760, 1001
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+My_13_3
+  rotate: true
+  xy: 626, 1004
+  size: 18, 61
+  orig: 18, 61
+  offset: 0, 0
+  index: -1
+My_13_4
+  rotate: false
+  xy: 2, 570
+  size: 723, 93
+  orig: 723, 93
+  offset: 0, 0
+  index: -1
+My_13_5
+  rotate: true
+  xy: 2, 665
+  size: 92, 729
+  orig: 92, 729
+  offset: 0, 0
+  index: -1
+My_13_6_s
+  rotate: false
+  xy: 249, 963
+  size: 51, 47
+  orig: 54, 50
+  offset: 3, 2
+  index: -1
+Reyesd
+  rotate: false
+  xy: 447, 1009
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Reyesu
+  rotate: false
+  xy: 725, 1002
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+aMy_12_111
+  rotate: false
+  xy: 302, 963
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1

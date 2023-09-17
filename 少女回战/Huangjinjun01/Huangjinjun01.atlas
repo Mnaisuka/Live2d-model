@@ -1,0 +1,34 @@
+
+Huangjinjun01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hjjA_2
+  rotate: false
+  xy: 290, 82
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+hjjA_3
+  rotate: false
+  xy: 224, 67
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+hjjA_4
+  rotate: true
+  xy: 2, 2
+  size: 120, 220
+  orig: 177, 224
+  offset: 57, 1
+  index: -1
+hjjA_5
+  rotate: false
+  xy: 2, 124
+  size: 1078, 1422
+  orig: 1078, 1423
+  offset: 0, 0
+  index: -1

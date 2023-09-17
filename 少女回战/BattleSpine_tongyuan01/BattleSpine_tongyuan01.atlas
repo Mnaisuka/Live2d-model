@@ -1,0 +1,867 @@
+
+BattleSpine_tongyuan01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_10
+  rotate: true
+  xy: 1745, 1652
+  size: 161, 188
+  orig: 188, 206
+  offset: 15, 10
+  index: -1
+jlp_ddz
+  rotate: false
+  xy: 1098, 1950
+  size: 55, 52
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+jlp_duzi
+  rotate: true
+  xy: 1458, 1998
+  size: 28, 30
+  orig: 30, 32
+  offset: 1, 1
+  index: -1
+jlp_gg
+  rotate: true
+  xy: 1682, 1992
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+jlp_tou
+  rotate: false
+  xy: 1365, 2000
+  size: 27, 26
+  orig: 29, 27
+  offset: 0, 1
+  index: -1
+jlp_ys
+  rotate: false
+  xy: 810, 2004
+  size: 28, 22
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+jlp_zs
+  rotate: false
+  xy: 768, 2005
+  size: 40, 21
+  orig: 44, 21
+  offset: 2, 0
+  index: -1
+jls_dz
+  rotate: true
+  xy: 456, 2012
+  size: 14, 29
+  orig: 21, 32
+  offset: 1, 3
+  index: -1
+jls_st
+  rotate: true
+  xy: 637, 2010
+  size: 16, 43
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+jls_ys
+  rotate: false
+  xy: 376, 2014
+  size: 16, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+jls_zs
+  rotate: false
+  xy: 487, 2012
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+tongyuan_1yxb
+  rotate: false
+  xy: 1155, 1947
+  size: 103, 54
+  orig: 103, 57
+  offset: 0, 3
+  index: -1
+tongyuan_61
+  rotate: true
+  xy: 1543, 1675
+  size: 153, 200
+  orig: 156, 202
+  offset: 3, 2
+  index: -1
+tongyuan_68
+  rotate: true
+  xy: 1721, 1931
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+tongyuan_69
+  rotate: true
+  xy: 1445, 1940
+  size: 54, 124
+  orig: 128, 125
+  offset: 0, 1
+  index: -1
+tongyuan_70
+  rotate: true
+  xy: 1897, 1815
+  size: 106, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+tongyuan_bz
+  rotate: false
+  xy: 121, 2018
+  size: 16, 8
+  orig: 16, 9
+  offset: 0, 1
+  index: -1
+tongyuan_bz121
+  rotate: true
+  xy: 62, 2020
+  size: 6, 11
+  orig: 8, 13
+  offset: 0, 2
+  index: -1
+tongyuan_bzsp
+  rotate: false
+  xy: 840, 2004
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+tongyuan_bzwy
+  rotate: false
+  xy: 443, 1966
+  size: 111, 44
+  orig: 115, 44
+  offset: 0, 0
+  index: -1
+tongyuan_ht
+  rotate: true
+  xy: 1457, 1494
+  size: 156, 497
+  orig: 156, 497
+  offset: 0, 0
+  index: -1
+tongyuan_htf1
+  rotate: true
+  xy: 1372, 1844
+  size: 94, 131
+  orig: 94, 131
+  offset: 0, 0
+  index: -1
+tongyuan_htf2
+  rotate: true
+  xy: 868, 1216
+  size: 276, 644
+  orig: 277, 660
+  offset: 1, 16
+  index: -1
+tongyuan_htf3
+  rotate: true
+  xy: 2, 981
+  size: 398, 815
+  orig: 398, 815
+  offset: 0, 0
+  index: -1
+tongyuan_htf4
+  rotate: true
+  xy: 2, 553
+  size: 426, 754
+  orig: 426, 754
+  offset: 0, 0
+  index: -1
+tongyuan_htf5
+  rotate: true
+  xy: 819, 781
+  size: 433, 623
+  orig: 757, 653
+  offset: 324, 30
+  index: -1
+tongyuan_htf6
+  rotate: true
+  xy: 1514, 1099
+  size: 393, 411
+  orig: 397, 412
+  offset: 0, 1
+  index: -1
+tongyuan_j
+  rotate: true
+  xy: 567, 1583
+  size: 107, 888
+  orig: 118, 894
+  offset: 7, 6
+  index: -1
+tongyuan_ks
+  rotate: true
+  xy: 969, 1953
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+tongyuan_kssui
+  rotate: true
+  xy: 118, 1973
+  size: 41, 92
+  orig: 41, 92
+  offset: 0, 0
+  index: -1
+tongyuan_l
+  rotate: true
+  xy: 1271, 1849
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+tongyuan_qdt
+  rotate: true
+  xy: 1611, 1830
+  size: 96, 284
+  orig: 109, 284
+  offset: 0, 0
+  index: -1
+tongyuan_qjhsp
+  rotate: true
+  xy: 97, 1906
+  size: 63, 165
+  orig: 74, 165
+  offset: 11, 0
+  index: -1
+tongyuan_qjsp
+  rotate: false
+  xy: 1192, 2003
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+tongyuan_qqbd
+  rotate: false
+  xy: 1723, 1992
+  size: 86, 34
+  orig: 86, 34
+  offset: 0, 0
+  index: -1
+tongyuan_qqbdi
+  rotate: true
+  xy: 1233, 1699
+  size: 143, 151
+  orig: 202, 235
+  offset: 0, 84
+  index: -1
+tongyuan_qqbs
+  rotate: true
+  xy: 2, 1435
+  size: 193, 181
+  orig: 215, 181
+  offset: 0, 0
+  index: -1
+tongyuan_qxt
+  rotate: true
+  xy: 624, 1881
+  size: 74, 250
+  orig: 106, 424
+  offset: 2, 0
+  index: -1
+tongyuan_shtj
+  rotate: false
+  xy: 1260, 1945
+  size: 83, 55
+  orig: 130, 64
+  offset: 47, 2
+  index: -1
+tongyuan_sxq
+  rotate: true
+  xy: 1039, 1716
+  size: 139, 192
+  orig: 139, 288
+  offset: 0, 26
+  index: -1
+tongyuan_td
+  rotate: false
+  xy: 2, 1913
+  size: 93, 63
+  orig: 93, 63
+  offset: 0, 0
+  index: -1
+tongyuan_tdm
+  rotate: false
+  xy: 264, 1902
+  size: 84, 65
+  orig: 84, 69
+  offset: 0, 4
+  index: -1
+tongyuan_tf1
+  rotate: true
+  xy: 1854, 1990
+  size: 36, 70
+  orig: 36, 70
+  offset: 0, 0
+  index: -1
+tongyuan_tf10
+  rotate: true
+  xy: 350, 1892
+  size: 72, 148
+  orig: 72, 148
+  offset: 0, 0
+  index: -1
+tongyuan_tf11
+  rotate: false
+  xy: 731, 1747
+  size: 149, 125
+  orig: 262, 168
+  offset: 0, 39
+  index: -1
+tongyuan_tf12
+  rotate: true
+  xy: 1616, 1996
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+tongyuan_tf13
+  rotate: true
+  xy: 1810, 1928
+  size: 60, 61
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+tongyuan_tf2
+  rotate: false
+  xy: 1261, 2002
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+tongyuan_tf3
+  rotate: true
+  xy: 2, 1978
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+tongyuan_tf4
+  rotate: false
+  xy: 1568, 1996
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+tongyuan_tf5
+  rotate: true
+  xy: 175, 2016
+  size: 10, 34
+  orig: 13, 37
+  offset: 0, 2
+  index: -1
+tongyuan_tf6
+  rotate: true
+  xy: 1490, 1997
+  size: 29, 76
+  orig: 29, 76
+  offset: 0, 0
+  index: -1
+tongyuan_tf7
+  rotate: false
+  xy: 1345, 1943
+  size: 98, 55
+  orig: 101, 55
+  offset: 0, 0
+  index: -1
+tongyuan_tf8
+  rotate: true
+  xy: 618, 1960
+  size: 47, 114
+  orig: 47, 118
+  offset: 0, 4
+  index: -1
+tongyuan_tf9
+  rotate: true
+  xy: 1110, 1857
+  size: 86, 159
+  orig: 107, 173
+  offset: 2, 7
+  index: -1
+tongyuan_ts1
+  rotate: true
+  xy: 1811, 1992
+  size: 34, 41
+  orig: 42, 119
+  offset: 8, 78
+  index: -1
+tongyuan_ts2
+  rotate: true
+  xy: 1943, 1923
+  size: 62, 81
+  orig: 66, 81
+  offset: 4, 0
+  index: -1
+tongyuan_ts3
+  rotate: false
+  xy: 411, 2013
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+tongyuan_ts4
+  rotate: true
+  xy: 54, 1978
+  size: 40, 62
+  orig: 42, 67
+  offset: 0, 5
+  index: -1
+tongyuan_ts5
+  rotate: false
+  xy: 1045, 1952
+  size: 51, 50
+  orig: 56, 54
+  offset: 2, 4
+  index: -1
+tongyuan_tyy
+  rotate: false
+  xy: 876, 1874
+  size: 91, 78
+  orig: 91, 98
+  offset: 0, 20
+  index: -1
+tongyuan_wth
+  rotate: false
+  xy: 185, 1423
+  size: 306, 180
+  orig: 332, 219
+  offset: 25, 39
+  index: -1
+tongyuan_wyx
+  rotate: true
+  xy: 2, 1630
+  size: 161, 187
+  orig: 161, 187
+  offset: 0, 0
+  index: -1
+tongyuan_xhtj
+  rotate: false
+  xy: 969, 1864
+  size: 139, 84
+  orig: 139, 84
+  offset: 0, 0
+  index: -1
+tongyuan_xiongs
+  rotate: false
+  xy: 556, 1963
+  size: 60, 46
+  orig: 60, 47
+  offset: 0, 1
+  index: -1
+tongyuan_xpd
+  rotate: false
+  xy: 1386, 1692
+  size: 155, 148
+  orig: 155, 149
+  offset: 0, 0
+  index: -1
+tongyuan_ybd
+  rotate: false
+  xy: 500, 1885
+  size: 122, 73
+  orig: 122, 73
+  offset: 0, 0
+  index: -1
+tongyuan_ydb
+  rotate: true
+  xy: 1505, 1842
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+tongyuan_ydnk
+  rotate: false
+  xy: 2, 1799
+  size: 151, 105
+  orig: 178, 114
+  offset: 3, 9
+  index: -1
+tongyuan_ygd
+  rotate: true
+  xy: 2, 2025
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+tongyuan_ymm
+  rotate: false
+  xy: 433, 2013
+  size: 21, 13
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+tongyuan_youyouzis
+  rotate: false
+  xy: 882, 1728
+  size: 155, 134
+  orig: 155, 134
+  offset: 0, 0
+  index: -1
+tongyuan_ypdsp
+  rotate: true
+  xy: 886, 2004
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+tongyuan_ys
+  rotate: true
+  xy: 279, 1970
+  size: 43, 62
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+tongyuan_yspt
+  rotate: true
+  xy: 1926, 1990
+  size: 36, 55
+  orig: 52, 65
+  offset: 0, 10
+  index: -1
+tongyuan_ysz
+  rotate: true
+  xy: 600, 2011
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+tongyuan_ywmz
+  rotate: false
+  xy: 682, 2009
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+tongyuan_ywy
+  rotate: true
+  xy: 372, 1605
+  size: 171, 193
+  orig: 171, 222
+  offset: 0, 29
+  index: -1
+tongyuan_yx
+  rotate: false
+  xy: 1571, 1939
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+tongyuan_yxjm
+  rotate: false
+  xy: 139, 2018
+  size: 16, 8
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+tongyuan_yxmz
+  rotate: false
+  xy: 740, 2008
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+tongyuan_yxw
+  rotate: false
+  xy: 1641, 1932
+  size: 78, 58
+  orig: 86, 86
+  offset: 6, 0
+  index: -1
+tongyuan_yxxzh
+  rotate: true
+  xy: 212, 1971
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+tongyuan_yxyp
+  rotate: false
+  xy: 394, 2014
+  size: 15, 12
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+tongyuan_yxzx
+  rotate: true
+  xy: 581, 1763
+  size: 116, 148
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+tongyuan_yxzxx
+  rotate: false
+  xy: 191, 1609
+  size: 179, 167
+  orig: 179, 172
+  offset: 0, 0
+  index: -1
+tongyuan_yyb
+  rotate: false
+  xy: 273, 2015
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+tongyuan_yyp
+  rotate: false
+  xy: 915, 2004
+  size: 28, 22
+  orig: 92, 99
+  offset: 60, 36
+  index: -1
+tongyuan_yyp2
+  rotate: false
+  xy: 507, 2012
+  size: 26, 14
+  orig: 92, 99
+  offset: 61, 35
+  index: -1
+tongyuan_yyq
+  rotate: false
+  xy: 292, 2015
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+tongyuan_yzz
+  rotate: false
+  xy: 1222, 2003
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+tongyuan_zdmz
+  rotate: false
+  xy: 1394, 2000
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+tongyuan_zgd
+  rotate: true
+  xy: 75, 2020
+  size: 6, 13
+  orig: 50, 22
+  offset: 0, 9
+  index: -1
+tongyuan_zmm
+  rotate: false
+  xy: 90, 2020
+  size: 29, 6
+  orig: 32, 6
+  offset: 3, 0
+  index: -1
+tongyuan_zpd
+  rotate: true
+  xy: 945, 2004
+  size: 22, 245
+  orig: 22, 245
+  offset: 0, 0
+  index: -1
+tongyuan_zpdsp
+  rotate: true
+  xy: 1983, 1987
+  size: 39, 41
+  orig: 268, 89
+  offset: 0, 48
+  index: -1
+tongyuan_zpsdi
+  rotate: true
+  xy: 535, 2012
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+tongyuan_zspt
+  rotate: false
+  xy: 886, 1954
+  size: 81, 48
+  orig: 512, 400
+  offset: 40, 352
+  index: -1
+tongyuan_zsw
+  rotate: false
+  xy: 343, 1969
+  size: 98, 42
+  orig: 107, 59
+  offset: 9, 6
+  index: -1
+tongyuan_zsz
+  rotate: false
+  xy: 1294, 2002
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+tongyuan_zwmzt
+  rotate: false
+  xy: 211, 2016
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+tongyuan_zwmzz
+  rotate: true
+  xy: 566, 2012
+  size: 14, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+tongyuan_zwt
+  rotate: true
+  xy: 270, 1778
+  size: 105, 309
+  orig: 685, 741
+  offset: 211, 232
+  index: -1
+tongyuan_zx
+  rotate: false
+  xy: 1873, 1928
+  size: 68, 60
+  orig: 68, 65
+  offset: 0, 5
+  index: -1
+tongyuan_zxiuzi
+  rotate: true
+  xy: 493, 1381
+  size: 200, 373
+  orig: 443, 373
+  offset: 19, 0
+  index: -1
+tongyuan_zxjm
+  rotate: false
+  xy: 35, 2022
+  size: 17, 4
+  orig: 17, 5
+  offset: 0, 1
+  index: -1
+tongyuan_zxmz
+  rotate: false
+  xy: 583, 2012
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+tongyuan_zxw
+  rotate: false
+  xy: 155, 1793
+  size: 113, 107
+  orig: 135, 140
+  offset: 22, 0
+  index: -1
+tongyuan_zxyp
+  rotate: false
+  xy: 233, 2016
+  size: 16, 10
+  orig: 43, 10
+  offset: 0, 0
+  index: -1
+tongyuan_zxzw
+  rotate: true
+  xy: 734, 1957
+  size: 45, 150
+  orig: 53, 150
+  offset: 2, 0
+  index: -1
+tongyuan_zyb
+  rotate: false
+  xy: 251, 2016
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+tongyuan_zyq
+  rotate: false
+  xy: 307, 2015
+  size: 13, 11
+  orig: 14, 11
+  offset: 1, 0
+  index: -1
+tongyuan_zyyp
+  rotate: false
+  xy: 1323, 2002
+  size: 40, 24
+  orig: 92, 99
+  offset: 12, 47
+  index: -1
+tongyuan_zyyp2
+  rotate: false
+  xy: 322, 2015
+  size: 32, 11
+  orig: 92, 99
+  offset: 16, 48
+  index: -1
+tongyuan_zz
+  rotate: false
+  xy: 356, 2015
+  size: 18, 11
+  orig: 20, 26
+  offset: 1, 15
+  index: -1
+tongyuan_zzzt
+  rotate: false
+  xy: 157, 2018
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tongyuan_zzzz
+  rotate: true
+  xy: 720, 2009
+  size: 17, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+youjiemao1
+  rotate: false
+  xy: 54, 2022
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+youjiemao2
+  rotate: false
+  xy: 6, 2024
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+youjiemao3
+  rotate: false
+  xy: 13, 2024
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+zuojiemao2
+  rotate: false
+  xy: 22, 2023
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+zuojiemao3
+  rotate: false
+  xy: 18, 2024
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+zuojimao1
+  rotate: true
+  xy: 28, 2023
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,412 @@
+
+Shikonglieren01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeyesU
+  rotate: true
+  xy: 1753, 1607
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+Leyesd
+  rotate: true
+  xy: 2016, 1547
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+My_01
+  rotate: false
+  xy: 1970, 1368
+  size: 41, 109
+  orig: 41, 109
+  offset: 0, 0
+  index: -1
+My_02
+  rotate: false
+  xy: 1467, 127
+  size: 151, 94
+  orig: 151, 94
+  offset: 0, 0
+  index: -1
+My_05_1
+  rotate: false
+  xy: 2029, 1819
+  size: 13, 65
+  orig: 13, 65
+  offset: 0, 0
+  index: -1
+My_05_10
+  rotate: true
+  xy: 2016, 1496
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+My_05_2
+  rotate: true
+  xy: 2011, 1255
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+My_05_3
+  rotate: false
+  xy: 2022, 1250
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+My_05_4
+  rotate: false
+  xy: 2016, 1660
+  size: 29, 70
+  orig: 29, 70
+  offset: 0, 0
+  index: -1
+My_05_5
+  rotate: false
+  xy: 1740, 1368
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+My_05_6
+  rotate: false
+  xy: 2034, 1335
+  size: 11, 57
+  orig: 11, 57
+  offset: 0, 0
+  index: -1
+My_05_7
+  rotate: false
+  xy: 2011, 1302
+  size: 16, 44
+  orig: 16, 44
+  offset: 0, 0
+  index: -1
+My_05_8
+  rotate: false
+  xy: 2022, 1866
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+My_05_9
+  rotate: true
+  xy: 2016, 1459
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+My_06_1
+  rotate: false
+  xy: 2031, 1961
+  size: 11, 85
+  orig: 11, 85
+  offset: 0, 0
+  index: -1
+My_06_10
+  rotate: false
+  xy: 1820, 1369
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+My_06_11
+  rotate: false
+  xy: 2011, 1214
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+My_06_12
+  rotate: false
+  xy: 2016, 1604
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+My_06_2
+  rotate: false
+  xy: 2022, 1874
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+My_06_3
+  rotate: true
+  xy: 1795, 1369
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+My_06_4
+  rotate: false
+  xy: 1764, 1369
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+My_06_5
+  rotate: false
+  xy: 1809, 1370
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+My_06_6
+  rotate: false
+  xy: 2028, 1261
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+My_06_7
+  rotate: false
+  xy: 2022, 1732
+  size: 23, 85
+  orig: 23, 85
+  offset: 0, 0
+  index: -1
+My_06_8
+  rotate: false
+  xy: 2031, 1886
+  size: 13, 73
+  orig: 13, 73
+  offset: 0, 0
+  index: -1
+My_06_9
+  rotate: false
+  xy: 2029, 1283
+  size: 10, 50
+  orig: 10, 50
+  offset: 0, 0
+  index: -1
+My_07
+  rotate: false
+  xy: 2022, 1858
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+My_08
+  rotate: true
+  xy: 2011, 1276
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+My_09
+  rotate: false
+  xy: 1779, 1370
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+My_10_1
+  rotate: false
+  xy: 2, 8
+  size: 326, 213
+  orig: 326, 213
+  offset: 0, 0
+  index: -1
+My_10_2
+  rotate: false
+  xy: 1424, 5
+  size: 180, 95
+  orig: 180, 95
+  offset: 0, 0
+  index: -1
+My_10_3
+  rotate: true
+  xy: 878, 91
+  size: 130, 290
+  orig: 130, 290
+  offset: 0, 0
+  index: -1
+My_10_4
+  rotate: true
+  xy: 1170, 4
+  size: 96, 252
+  orig: 96, 252
+  offset: 0, 0
+  index: -1
+My_10_5
+  rotate: true
+  xy: 1970, 1898
+  size: 148, 59
+  orig: 148, 59
+  offset: 0, 0
+  index: -1
+My_10_6
+  rotate: true
+  xy: 650, 45
+  size: 176, 226
+  orig: 176, 226
+  offset: 0, 0
+  index: -1
+My_11_1
+  rotate: true
+  xy: 1140, 310
+  size: 257, 226
+  orig: 257, 226
+  offset: 0, 0
+  index: -1
+My_11_2
+  rotate: true
+  xy: 2013, 1348
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+My_11_3
+  rotate: true
+  xy: 1753, 1487
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+My_12_1
+  rotate: false
+  xy: 330, 58
+  size: 318, 163
+  orig: 318, 163
+  offset: 0, 0
+  index: -1
+My_12_10
+  rotate: false
+  xy: 491, 906
+  size: 1178, 244
+  orig: 1178, 244
+  offset: 0, 0
+  index: -1
+My_12_11
+  rotate: false
+  xy: 898, 287
+  size: 240, 617
+  orig: 240, 617
+  offset: 0, 0
+  index: -1
+My_12_12
+  rotate: true
+  xy: 1709, 4
+  size: 125, 224
+  orig: 125, 224
+  offset: 0, 0
+  index: -1
+My_12_2
+  rotate: true
+  xy: 1606, 5
+  size: 120, 101
+  orig: 120, 101
+  offset: 0, 0
+  index: -1
+My_12_3
+  rotate: true
+  xy: 1828, 1378
+  size: 668, 140
+  orig: 668, 140
+  offset: 0, 0
+  index: -1
+My_12_4
+  rotate: false
+  xy: 2, 354
+  size: 487, 796
+  orig: 487, 796
+  offset: 0, 0
+  index: -1
+My_12_5
+  rotate: false
+  xy: 1140, 569
+  size: 435, 335
+  orig: 435, 335
+  offset: 0, 0
+  index: -1
+My_12_6
+  rotate: true
+  xy: 1620, 131
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+My_12_7
+  rotate: true
+  xy: 1970, 1479
+  size: 130, 44
+  orig: 130, 44
+  offset: 0, 0
+  index: -1
+My_12_8
+  rotate: false
+  xy: 1170, 102
+  size: 295, 119
+  orig: 295, 119
+  offset: 0, 0
+  index: -1
+My_12_9
+  rotate: true
+  xy: 1740, 223
+  size: 1143, 269
+  orig: 1143, 269
+  offset: 0, 0
+  index: -1
+My_13_1
+  rotate: true
+  xy: 491, 376
+  size: 528, 405
+  orig: 528, 405
+  offset: 0, 0
+  index: -1
+My_13_2
+  rotate: true
+  xy: 1970, 1758
+  size: 138, 50
+  orig: 138, 50
+  offset: 0, 0
+  index: -1
+My_13_3
+  rotate: false
+  xy: 1970, 1611
+  size: 44, 145
+  orig: 44, 145
+  offset: 0, 0
+  index: -1
+My_13_4
+  rotate: false
+  xy: 2, 1152
+  size: 1736, 224
+  orig: 1736, 224
+  offset: 0, 0
+  index: -1
+My_13_5
+  rotate: true
+  xy: 2, 1467
+  size: 221, 1749
+  orig: 221, 1749
+  offset: 0, 0
+  index: -1
+My_13_6
+  rotate: false
+  xy: 2, 1690
+  size: 1824, 356
+  orig: 1824, 356
+  offset: 0, 0
+  index: -1
+Reyesd
+  rotate: true
+  xy: 2013, 1394
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+Reyesu
+  rotate: true
+  xy: 1753, 1525
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1

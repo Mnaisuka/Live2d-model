@@ -1,0 +1,48 @@
+
+Cunmin02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cmb01
+  rotate: false
+  xy: 807, 1049
+  size: 857, 671
+  orig: 857, 671
+  offset: 0, 0
+  index: -1
+Cmb02
+  rotate: false
+  xy: 57, 1686
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+Cmb03
+  rotate: false
+  xy: 2, 1705
+  size: 53, 15
+  orig: 53, 15
+  offset: 0, 0
+  index: -1
+Cmb04
+  rotate: false
+  xy: 389, 1440
+  size: 416, 280
+  orig: 416, 280
+  offset: 0, 0
+  index: -1
+Cmb05
+  rotate: false
+  xy: 121, 1650
+  size: 266, 70
+  orig: 266, 70
+  offset: 0, 0
+  index: -1
+Cmb06
+  rotate: true
+  xy: 2, 81
+  size: 966, 1718
+  orig: 968, 1718
+  offset: 0, 0
+  index: -1

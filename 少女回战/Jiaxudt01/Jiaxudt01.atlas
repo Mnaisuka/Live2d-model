@@ -1,0 +1,90 @@
+
+Jiaxudt01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiaxu111
+  rotate: true
+  xy: 1416, 1378
+  size: 172, 176
+  orig: 174, 176
+  offset: 1, 0
+  index: -1
+jiaxu112
+  rotate: true
+  xy: 2, 1479
+  size: 71, 351
+  orig: 71, 353
+  offset: 0, 1
+  index: -1
+jiaxu113
+  rotate: false
+  xy: 2, 2
+  size: 1104, 595
+  orig: 1105, 595
+  offset: 0, 0
+  index: -1
+jiaxu114
+  rotate: true
+  xy: 592, 1414
+  size: 136, 325
+  orig: 139, 325
+  offset: 0, 0
+  index: -1
+jiaxu115
+  rotate: true
+  xy: 355, 1479
+  size: 71, 235
+  orig: 71, 235
+  offset: 0, 0
+  index: -1
+jiaxu116
+  rotate: true
+  xy: 755, 1014
+  size: 368, 620
+  orig: 368, 620
+  offset: 0, 0
+  index: -1
+jiaxu117
+  rotate: false
+  xy: 2, 1088
+  size: 751, 324
+  orig: 751, 324
+  offset: 0, 0
+  index: -1
+jiaxu118
+  rotate: true
+  xy: 1443, 528
+  size: 481, 503
+  orig: 481, 503
+  offset: 0, 0
+  index: -1
+jiaxu119
+  rotate: false
+  xy: 2, 689
+  size: 730, 397
+  orig: 730, 397
+  offset: 0, 0
+  index: -1
+jiaxu120
+  rotate: false
+  xy: 1594, 1011
+  size: 450, 539
+  orig: 450, 539
+  offset: 0, 0
+  index: -1
+jiaxu122
+  rotate: false
+  xy: 734, 599
+  size: 707, 413
+  orig: 707, 413
+  offset: 0, 0
+  index: -1
+jiaxu123
+  rotate: true
+  xy: 919, 1384
+  size: 166, 495
+  orig: 166, 495
+  offset: 0, 0
+  index: -1

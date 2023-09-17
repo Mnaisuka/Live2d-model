@@ -1,0 +1,419 @@
+
+BattleSpine_wuzhongmoru01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AJ_1
+  rotate: true
+  xy: 882, 1459
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+AJ_2
+  rotate: true
+  xy: 880, 1194
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+AY_1
+  rotate: true
+  xy: 847, 904
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Agong_01
+  rotate: false
+  xy: 206, 1497
+  size: 963, 418
+  orig: 963, 423
+  offset: 0, 0
+  index: -1
+Ajia
+  rotate: false
+  xy: 743, 1015
+  size: 22, 73
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+Amose
+  rotate: false
+  xy: 366, 847
+  size: 39, 21
+  orig: 39, 24
+  offset: 0, 2
+  index: -1
+Axuan_01
+  rotate: false
+  xy: 1273, 1466
+  size: 699, 93
+  orig: 709, 114
+  offset: 5, 14
+  index: -1
+Ay_01
+  rotate: false
+  xy: 206, 841
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+Ay_02
+  rotate: true
+  xy: 880, 1209
+  size: 24, 10
+  orig: 31, 20
+  offset: 1, 6
+  index: -1
+Az_d
+  rotate: true
+  xy: 882, 1443
+  size: 14, 11
+  orig: 18, 11
+  offset: 2, 0
+  index: -1
+Az_s
+  rotate: true
+  xy: 882, 1477
+  size: 18, 17
+  orig: 22, 18
+  offset: 3, 0
+  index: -1
+hudujie_02
+  rotate: true
+  xy: 1775, 917
+  size: 214, 206
+  orig: 214, 209
+  offset: 0, 0
+  index: -1
+zch_10
+  rotate: false
+  xy: 253, 843
+  size: 61, 25
+  orig: 61, 26
+  offset: 0, 1
+  index: -1
+zch_11
+  rotate: false
+  xy: 882, 1430
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+zch_12
+  rotate: false
+  xy: 743, 862
+  size: 102, 143
+  orig: 103, 145
+  offset: 0, 0
+  index: -1
+zch_13
+  rotate: false
+  xy: 769, 1281
+  size: 111, 214
+  orig: 115, 221
+  offset: 4, 7
+  index: -1
+zch_14
+  rotate: false
+  xy: 769, 1007
+  size: 109, 272
+  orig: 109, 272
+  offset: 0, 0
+  index: -1
+zch_15
+  rotate: true
+  xy: 1480, 155
+  size: 176, 372
+  orig: 176, 372
+  offset: 0, 0
+  index: -1
+zch_16
+  rotate: true
+  xy: 743, 1117
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+zch_17
+  rotate: true
+  xy: 889, 1165
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+zch_18
+  rotate: true
+  xy: 847, 839
+  size: 63, 27
+  orig: 64, 39
+  offset: 0, 10
+  index: -1
+zch_19
+  rotate: true
+  xy: 1190, 376
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+zch_2
+  rotate: true
+  xy: 1832, 1174
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+zch_20
+  rotate: true
+  xy: 1189, 322
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+zch_21
+  rotate: true
+  xy: 880, 1235
+  size: 44, 18
+  orig: 47, 21
+  offset: 3, 3
+  index: -1
+zch_22
+  rotate: false
+  xy: 1521, 707
+  size: 99, 136
+  orig: 99, 136
+  offset: 0, 0
+  index: -1
+zch_23
+  rotate: false
+  xy: 1775, 744
+  size: 251, 171
+  orig: 251, 171
+  offset: 0, 0
+  index: -1
+zch_24
+  rotate: false
+  xy: 1832, 1264
+  size: 194, 200
+  orig: 194, 200
+  offset: 0, 0
+  index: -1
+zch_25
+  rotate: true
+  xy: 743, 1090
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+zch_26
+  rotate: false
+  xy: 1171, 1519
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+zch_27
+  rotate: false
+  xy: 1954, 1568
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+zch_28
+  rotate: true
+  xy: 1152, 309
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+zch_29
+  rotate: true
+  xy: 847, 952
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+zch_3
+  rotate: false
+  xy: 1521, 534
+  size: 92, 171
+  orig: 92, 171
+  offset: 0, 0
+  index: -1
+zch_30
+  rotate: true
+  xy: 1226, 104
+  size: 227, 252
+  orig: 227, 252
+  offset: 0, 0
+  index: -1
+zch_31
+  rotate: true
+  xy: 1858, 1569
+  size: 74, 94
+  orig: 112, 112
+  offset: 18, 18
+  index: -1
+zch_32
+  rotate: true
+  xy: 901, 1107
+  size: 388, 370
+  orig: 388, 370
+  offset: 0, 0
+  index: -1
+zch_34
+  rotate: false
+  xy: 2, 839
+  size: 202, 1076
+  orig: 202, 1076
+  offset: 0, 0
+  index: -1
+zch_35
+  rotate: true
+  xy: 1811, 562
+  size: 180, 232
+  orig: 180, 232
+  offset: 0, 0
+  index: -1
+zch_36
+  rotate: false
+  xy: 1228, 333
+  size: 291, 510
+  orig: 326, 519
+  offset: 0, 9
+  index: -1
+zch_37
+  rotate: true
+  xy: 316, 843
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+zch_38
+  rotate: false
+  xy: 1615, 567
+  size: 194, 132
+  orig: 194, 132
+  offset: 0, 0
+  index: -1
+zch_39
+  rotate: true
+  xy: 206, 870
+  size: 286, 535
+  orig: 286, 548
+  offset: 0, 0
+  index: -1
+zch_40
+  rotate: false
+  xy: 1635, 701
+  size: 138, 430
+  orig: 138, 430
+  offset: 0, 0
+  index: -1
+zch_41
+  rotate: true
+  xy: 1273, 1133
+  size: 331, 557
+  orig: 331, 557
+  offset: 0, 0
+  index: -1
+zch_42
+  rotate: false
+  xy: 1830, 343
+  size: 191, 217
+  orig: 193, 217
+  offset: 2, 0
+  index: -1
+zch_43
+  rotate: true
+  xy: 206, 1158
+  size: 337, 561
+  orig: 337, 561
+  offset: 0, 0
+  index: -1
+zch_44
+  rotate: true
+  xy: 1521, 395
+  size: 137, 307
+  orig: 137, 307
+  offset: 0, 0
+  index: -1
+zch_45
+  rotate: true
+  xy: 901, 413
+  size: 430, 325
+  orig: 430, 325
+  offset: 0, 0
+  index: -1
+zch_46
+  rotate: false
+  xy: 901, 2
+  size: 249, 409
+  orig: 249, 409
+  offset: 0, 0
+  index: -1
+zch_47
+  rotate: true
+  xy: 1858, 1645
+  size: 270, 180
+  orig: 270, 180
+  offset: 0, 0
+  index: -1
+zch_48
+  rotate: true
+  xy: 2, 345
+  size: 492, 897
+  orig: 492, 897
+  offset: 0, 0
+  index: -1
+zch_49
+  rotate: true
+  xy: 1171, 1561
+  size: 354, 685
+  orig: 354, 685
+  offset: 0, 0
+  index: -1
+zch_5
+  rotate: true
+  xy: 880, 1115
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+zch_50
+  rotate: false
+  xy: 880, 845
+  size: 753, 260
+  orig: 753, 260
+  offset: 0, 0
+  index: -1
+zch_6
+  rotate: true
+  xy: 880, 1179
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+zch_7
+  rotate: false
+  xy: 1954, 1613
+  size: 76, 30
+  orig: 76, 36
+  offset: 0, 2
+  index: -1
+zch_8
+  rotate: true
+  xy: 1152, 374
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+zch_9
+  rotate: true
+  xy: 1152, 248
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+Lvbujunweixu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LBJWX01
+  rotate: true
+  xy: 412, 42
+  size: 11, 47
+  orig: 11, 47
+  offset: 0, 0
+  index: -1
+LBJWX02
+  rotate: true
+  xy: 189, 4
+  size: 49, 170
+  orig: 49, 170
+  offset: 0, 0
+  index: -1
+LBJWX03
+  rotate: true
+  xy: 361, 21
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+LBJWX04
+  rotate: true
+  xy: 2, 2
+  size: 51, 185
+  orig: 51, 185
+  offset: 0, 0
+  index: -1
+LBJWX05
+  rotate: false
+  xy: 2, 55
+  size: 1235, 1769
+  orig: 1235, 1769
+  offset: 0, 0
+  index: -1

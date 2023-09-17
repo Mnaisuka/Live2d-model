@@ -1,0 +1,36 @@
+{
+	"type":9,
+	"controllers":{
+		"intimacy_system":{
+		},
+		"slot_opacity":{
+		},
+		"slot_color":{
+		}
+	},
+	"motions":{
+		"shake":[{
+				"file":"Open"
+			}],
+		"idle":[{
+				"file":"Stand"
+			}],
+		"tap":[{
+				"file":"Click"
+			},{
+				"file":"Special01"
+			},{
+				"file":"Special02"
+			}]
+	},
+	"options":{
+		"edge_padding":false,
+		"shader":"Skeleton-Straight-Alpha"
+	},
+	"skeleton":"Guoshiwushuanghanxin01.skel",
+	"atlases":[{
+			"atlas":"Guoshiwushuanghanxin01.atlas",
+			"tex_names":["Guoshiwushuanghanxin01","Guoshiwushuanghanxin012","Guoshiwushuanghanxin013"],
+			"textures":["Guoshiwushuanghanxin01.png","Guoshiwushuanghanxin012.png","Guoshiwushuanghanxin013.png"]
+		}]
+}
