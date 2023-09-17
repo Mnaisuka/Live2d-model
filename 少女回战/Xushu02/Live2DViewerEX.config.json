@@ -1,0 +1,36 @@
+{
+	"type":9,
+	"controllers":{
+		"intimacy_system":{
+		},
+		"slot_opacity":{
+		},
+		"slot_color":{
+		}
+	},
+	"motions":{
+		"shake":[{
+				"file":"Open"
+			}],
+		"idle":[{
+				"file":"Stand"
+			}],
+		"tap":[{
+				"file":"Click"
+			},{
+				"file":"Special01"
+			},{
+				"file":"Special02"
+			}]
+	},
+	"options":{
+		"edge_padding":false,
+		"shader":"Skeleton-Straight-Alpha"
+	},
+	"skeleton":"Xushu02.skel",
+	"atlases":[{
+			"atlas":"Xushu02.atlas",
+			"tex_names":["Xushu02","Xushu022"],
+			"textures":["Xushu02.png","Xushu022.png"]
+		}]
+}

@@ -1,0 +1,36 @@
+{
+	"type":9,
+	"controllers":{
+		"intimacy_system":{
+		},
+		"slot_opacity":{
+		},
+		"slot_color":{
+		}
+	},
+	"motions":{
+		"shake":[{
+				"file":"Open"
+			}],
+		"idle":[{
+				"file":"Stand"
+			}],
+		"tap":[{
+				"file":"Click"
+			},{
+				"file":"Special01"
+			},{
+				"file":"Special02"
+			}]
+	},
+	"options":{
+		"edge_padding":false,
+		"shader":"Skeleton-Straight-Alpha"
+	},
+	"skeleton":"Sunwu02.skel",
+	"atlases":[{
+			"atlas":"Sunwu02.atlas",
+			"tex_names":["Sunwu02","Sunwu022"],
+			"textures":["Sunwu02.png","Sunwu022.png"]
+		}]
+}

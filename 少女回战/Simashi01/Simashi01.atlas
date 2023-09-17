@@ -1,0 +1,753 @@
+
+Simashi01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Simashi01_001
+  rotate: false
+  xy: 672, 1977
+  size: 75, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+Simashi01_002
+  rotate: true
+  xy: 921, 1281
+  size: 200, 358
+  orig: 200, 358
+  offset: 0, 0
+  index: -1
+Simashi01_006
+  rotate: true
+  xy: 292, 1994
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+Simashi01_007
+  rotate: false
+  xy: 1026, 1881
+  size: 144, 86
+  orig: 145, 86
+  offset: 0, 0
+  index: -1
+Simashi01_008
+  rotate: true
+  xy: 299, 2034
+  size: 8, 11
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Simashi01_009
+  rotate: false
+  xy: 2, 2039
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+Simashi01_010
+  rotate: false
+  xy: 707, 2030
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Simashi01_011
+  rotate: true
+  xy: 1794, 1955
+  size: 60, 177
+  orig: 82, 184
+  offset: 2, 7
+  index: -1
+Simashi01_012
+  rotate: true
+  xy: 2, 1938
+  size: 62, 149
+  orig: 62, 149
+  offset: 0, 0
+  index: -1
+Simashi01_013
+  rotate: true
+  xy: 594, 1903
+  size: 71, 193
+  orig: 71, 197
+  offset: 0, 4
+  index: -1
+Simashi01_014
+  rotate: true
+  xy: 1395, 1961
+  size: 57, 198
+  orig: 61, 198
+  offset: 4, 0
+  index: -1
+Simashi01_015
+  rotate: true
+  xy: 914, 1972
+  size: 50, 152
+  orig: 50, 152
+  offset: 0, 0
+  index: -1
+Simashi01_016
+  rotate: true
+  xy: 557, 2031
+  size: 11, 92
+  orig: 11, 92
+  offset: 0, 0
+  index: -1
+Simashi01_017
+  rotate: true
+  xy: 423, 1989
+  size: 40, 141
+  orig: 40, 145
+  offset: 0, 4
+  index: -1
+Simashi01_018
+  rotate: true
+  xy: 789, 1894
+  size: 76, 235
+  orig: 76, 250
+  offset: 0, 0
+  index: -1
+Simashi01_019
+  rotate: true
+  xy: 722, 1661
+  size: 121, 248
+  orig: 121, 248
+  offset: 0, 0
+  index: -1
+Simashi01_020
+  rotate: false
+  xy: 168, 1999
+  size: 122, 34
+  orig: 122, 34
+  offset: 0, 0
+  index: -1
+Simashi01_021
+  rotate: false
+  xy: 826, 2026
+  size: 86, 16
+  orig: 86, 24
+  offset: 0, 1
+  index: -1
+Simashi01_022
+  rotate: false
+  xy: 1887, 2019
+  size: 63, 23
+  orig: 69, 29
+  offset: 2, 0
+  index: -1
+Simashi01_023
+  rotate: false
+  xy: 37, 2038
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+Simashi01_024
+  rotate: false
+  xy: 52, 2038
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+Simashi01_025
+  rotate: true
+  xy: 83, 2036
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+Simashi01_026
+  rotate: false
+  xy: 13, 2039
+  size: 12, 3
+  orig: 12, 3
+  offset: 0, 0
+  index: -1
+Simashi01_027
+  rotate: true
+  xy: 746, 2028
+  size: 14, 21
+  orig: 14, 22
+  offset: 0, 1
+  index: -1
+Simashi01_028
+  rotate: false
+  xy: 255, 2035
+  size: 31, 7
+  orig: 31, 7
+  offset: 0, 0
+  index: -1
+Simashi01_029
+  rotate: false
+  xy: 312, 2034
+  size: 11, 8
+  orig: 16, 11
+  offset: 0, 3
+  index: -1
+Simashi01_030
+  rotate: true
+  xy: 1979, 2016
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Simashi01_031
+  rotate: false
+  xy: 371, 1992
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+Simashi01_032
+  rotate: false
+  xy: 386, 2033
+  size: 45, 9
+  orig: 45, 12
+  offset: 0, 1
+  index: -1
+Simashi01_033
+  rotate: false
+  xy: 1356, 2022
+  size: 43, 20
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+Simashi01_034
+  rotate: false
+  xy: 93, 2036
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+Simashi01_035
+  rotate: false
+  xy: 27, 2039
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+Simashi01_036
+  rotate: false
+  xy: 726, 2029
+  size: 18, 13
+  orig: 18, 14
+  offset: 0, 1
+  index: -1
+Simashi01_037
+  rotate: false
+  xy: 65, 2037
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Simashi01_038
+  rotate: false
+  xy: 288, 2035
+  size: 9, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Simashi01_039
+  rotate: true
+  xy: 948, 2025
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+Simashi01_040
+  rotate: true
+  xy: 2011, 2012
+  size: 30, 31
+  orig: 30, 35
+  offset: 0, 4
+  index: -1
+Simashi01_041
+  rotate: false
+  xy: 914, 2026
+  size: 32, 16
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Simashi01_042
+  rotate: false
+  xy: 769, 2027
+  size: 55, 15
+  orig: 55, 17
+  offset: 0, 0
+  index: -1
+Simashi01_043
+  rotate: false
+  xy: 1883, 1824
+  size: 157, 129
+  orig: 158, 129
+  offset: 0, 0
+  index: -1
+Simashi01_044
+  rotate: true
+  xy: 705, 1323
+  size: 195, 214
+  orig: 219, 220
+  offset: 5, 1
+  index: -1
+Simashi01_045
+  rotate: true
+  xy: 355, 1917
+  size: 70, 135
+  orig: 70, 135
+  offset: 0, 0
+  index: -1
+Simashi01_046
+  rotate: true
+  xy: 749, 1976
+  size: 48, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+Simashi01_047
+  rotate: false
+  xy: 972, 1653
+  size: 281, 125
+  orig: 281, 125
+  offset: 0, 0
+  index: -1
+Simashi01_048
+  rotate: true
+  xy: 492, 1905
+  size: 80, 100
+  orig: 80, 101
+  offset: 0, 1
+  index: -1
+Simashi01_049
+  rotate: true
+  xy: 286, 1043
+  size: 236, 872
+  orig: 236, 872
+  offset: 0, 0
+  index: -1
+Simashi01_050
+  rotate: false
+  xy: 1595, 1960
+  size: 197, 58
+  orig: 201, 58
+  offset: 4, 0
+  index: -1
+Simashi01_052
+  rotate: false
+  xy: 847, 1974
+  size: 65, 50
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+Simashi01_053
+  rotate: true
+  xy: 566, 1987
+  size: 42, 104
+  orig: 43, 104
+  offset: 0, 0
+  index: -1
+Simashi01_054
+  rotate: true
+  xy: 2, 2002
+  size: 32, 164
+  orig: 32, 164
+  offset: 0, 0
+  index: -1
+Simashi01_055
+  rotate: false
+  xy: 1115, 2023
+  size: 197, 19
+  orig: 197, 19
+  offset: 0, 0
+  index: -1
+Simashi01_056
+  rotate: true
+  xy: 226, 1816
+  size: 85, 497
+  orig: 88, 506
+  offset: 0, 0
+  index: -1
+Simashi01_057
+  rotate: true
+  xy: 1450, 2020
+  size: 22, 291
+  orig: 22, 291
+  offset: 0, 0
+  index: -1
+Simashi01_058
+  rotate: true
+  xy: 457, 1520
+  size: 131, 576
+  orig: 152, 576
+  offset: 0, 0
+  index: -1
+Simashi01_059
+  rotate: false
+  xy: 2, 1423
+  size: 356, 162
+  orig: 357, 162
+  offset: 1, 0
+  index: -1
+Simashi01_060
+  rotate: false
+  xy: 1281, 1157
+  size: 507, 217
+  orig: 507, 220
+  offset: 0, 1
+  index: -1
+Simashi01_061
+  rotate: false
+  xy: 2, 1713
+  size: 582, 101
+  orig: 582, 104
+  offset: 0, 0
+  index: -1
+Simashi01_062
+  rotate: false
+  xy: 1498, 1376
+  size: 370, 163
+  orig: 370, 163
+  offset: 0, 0
+  index: -1
+Simashi01_063
+  rotate: true
+  xy: 1068, 1969
+  size: 52, 145
+  orig: 52, 145
+  offset: 0, 0
+  index: -1
+Simashi01_064
+  rotate: true
+  xy: 1255, 1635
+  size: 126, 245
+  orig: 136, 250
+  offset: 10, 0
+  index: -1
+Simashi01_065
+  rotate: true
+  xy: 1558, 1740
+  size: 120, 257
+  orig: 120, 257
+  offset: 0, 0
+  index: -1
+Simashi01_066
+  rotate: true
+  xy: 1817, 1692
+  size: 130, 138
+  orig: 130, 138
+  offset: 0, 0
+  index: -1
+Simashi01_069
+  rotate: false
+  xy: 2, 1149
+  size: 282, 272
+  orig: 287, 272
+  offset: 0, 0
+  index: -1
+Simashi01_070
+  rotate: true
+  xy: 1215, 1965
+  size: 55, 178
+  orig: 56, 178
+  offset: 0, 0
+  index: -1
+Simashi01_071
+  rotate: true
+  xy: 725, 1784
+  size: 108, 292
+  orig: 108, 292
+  offset: 0, 0
+  index: -1
+Simashi01_072
+  rotate: true
+  xy: 1035, 1483
+  size: 150, 283
+  orig: 171, 283
+  offset: 0, 0
+  index: -1
+Simashi01_073
+  rotate: false
+  xy: 586, 1669
+  size: 134, 145
+  orig: 134, 145
+  offset: 0, 0
+  index: -1
+Simashi01_074
+  rotate: true
+  xy: 651, 2031
+  size: 11, 29
+  orig: 14, 30
+  offset: 3, 1
+  index: -1
+Simashi01_075
+  rotate: false
+  xy: 325, 2034
+  size: 35, 8
+  orig: 36, 8
+  offset: 1, 0
+  index: -1
+Simashi01_076
+  rotate: true
+  xy: 1320, 1465
+  size: 168, 176
+  orig: 171, 180
+  offset: 3, 4
+  index: -1
+Simashi01_077
+  rotate: false
+  xy: 1502, 1607
+  size: 181, 131
+  orig: 181, 131
+  offset: 0, 0
+  index: -1
+Simashi01_078
+  rotate: false
+  xy: 1582, 1862
+  size: 299, 91
+  orig: 299, 91
+  offset: 0, 0
+  index: -1
+Simashi01_079
+  rotate: false
+  xy: 1685, 1541
+  size: 211, 149
+  orig: 215, 149
+  offset: 0, 0
+  index: -1
+Simashi01_080
+  rotate: true
+  xy: 1019, 1780
+  size: 98, 341
+  orig: 98, 341
+  offset: 0, 0
+  index: -1
+Simashi01_081
+  rotate: true
+  xy: 2, 225
+  size: 378, 1494
+  orig: 439, 1494
+  offset: 0, 0
+  index: -1
+Simashi01_082_1
+  rotate: false
+  xy: 2, 605
+  size: 1901, 220
+  orig: 1901, 220
+  offset: 0, 0
+  index: -1
+Simashi01_083
+  rotate: false
+  xy: 1362, 1763
+  size: 194, 115
+  orig: 194, 115
+  offset: 0, 0
+  index: -1
+Simashi01_084
+  rotate: true
+  xy: 1160, 857
+  size: 298, 342
+  orig: 298, 343
+  offset: 0, 0
+  index: -1
+Simashi01_085
+  rotate: true
+  xy: 1743, 2020
+  size: 22, 113
+  orig: 23, 114
+  offset: 0, 0
+  index: -1
+Simashi01_086
+  rotate: true
+  xy: 2, 1587
+  size: 124, 453
+  orig: 136, 457
+  offset: 0, 0
+  index: -1
+Simashi01_089
+  rotate: true
+  xy: 1504, 827
+  size: 328, 421
+  orig: 328, 421
+  offset: 0, 0
+  index: -1
+Simashi01_090
+  rotate: false
+  xy: 2, 1835
+  size: 222, 95
+  orig: 222, 95
+  offset: 0, 0
+  index: -1
+Simashi01_091
+  rotate: false
+  xy: 360, 1334
+  size: 343, 184
+  orig: 343, 184
+  offset: 0, 0
+  index: -1
+Simashi01_092
+  rotate: false
+  xy: 1172, 1880
+  size: 408, 79
+  orig: 408, 79
+  offset: 0, 0
+  index: -1
+Simashi01_093
+  rotate: true
+  xy: 153, 1932
+  size: 60, 200
+  orig: 60, 200
+  offset: 0, 0
+  index: -1
+Simashi01_200
+  rotate: false
+  xy: 102, 2036
+  size: 53, 6
+  orig: 54, 7
+  offset: 0, 0
+  index: -1
+Simashi01_201
+  rotate: false
+  xy: 433, 2033
+  size: 43, 9
+  orig: 44, 10
+  offset: 1, 0
+  index: -1
+Simashi01_202
+  rotate: false
+  xy: 982, 2024
+  size: 60, 18
+  orig: 175, 23
+  offset: 0, 0
+  index: -1
+Simashi01_203
+  rotate: true
+  xy: 362, 2034
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+Simashi01_204
+  rotate: false
+  xy: 157, 2036
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+Simashi01_205
+  rotate: true
+  xy: 1858, 2020
+  size: 22, 27
+  orig: 23, 27
+  offset: 1, 0
+  index: -1
+Simashi01_206
+  rotate: false
+  xy: 1314, 2023
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Simashi01_210
+  rotate: false
+  xy: 478, 2033
+  size: 77, 9
+  orig: 79, 9
+  offset: 0, 0
+  index: -1
+Simashi01_211
+  rotate: false
+  xy: 184, 2036
+  size: 41, 6
+  orig: 42, 7
+  offset: 1, 1
+  index: -1
+Simashi01_212
+  rotate: false
+  xy: 1044, 2024
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+Simashi01_213
+  rotate: false
+  xy: 682, 2031
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Simashi01_214
+  rotate: false
+  xy: 227, 2036
+  size: 26, 6
+  orig: 26, 7
+  offset: 0, 1
+  index: -1
+Simashi01_215
+  rotate: false
+  xy: 1952, 2017
+  size: 25, 25
+  orig: 27, 25
+  offset: 2, 0
+  index: -1
+Simashi01_216
+  rotate: false
+  xy: 1401, 2021
+  size: 47, 21
+  orig: 48, 22
+  offset: 1, 1
+  index: -1
+
+Simashi012.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Simashi01_082_2
+  rotate: true
+  xy: 2, 28
+  size: 746, 1644
+  orig: 746, 1644
+  offset: 0, 0
+  index: -1
+Simashi01_087
+  rotate: false
+  xy: 2, 776
+  size: 1788, 1014
+  orig: 1877, 1014
+  offset: 0, 0
+  index: -1
+
+Simashi013.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Simashi01_051
+  rotate: true
+  xy: 908, 154
+  size: 554, 1107
+  orig: 554, 1107
+  offset: 0, 0
+  index: -1
+Simashi01_067
+  rotate: true
+  xy: 2, 75
+  size: 1027, 904
+  orig: 1027, 1019
+  offset: 0, 115
+  index: -1
+Simashi01_094
+  rotate: false
+  xy: 1213, 710
+  size: 586, 1305
+  orig: 586, 1305
+  offset: 0, 0
+  index: -1
+Simashi01_095
+  rotate: false
+  xy: 2, 1104
+  size: 1209, 911
+  orig: 1209, 911
+  offset: 0, 0
+  index: -1

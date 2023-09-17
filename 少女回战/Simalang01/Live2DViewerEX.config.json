@@ -1,0 +1,36 @@
+{
+	"type":9,
+	"controllers":{
+		"intimacy_system":{
+		},
+		"slot_opacity":{
+		},
+		"slot_color":{
+		}
+	},
+	"motions":{
+		"shake":[{
+				"file":"Open"
+			}],
+		"idle":[{
+				"file":"Stand"
+			}],
+		"tap":[{
+				"file":"Click"
+			},{
+				"file":"Special01"
+			},{
+				"file":"Special02"
+			}]
+	},
+	"options":{
+		"edge_padding":false,
+		"shader":"Skeleton-Straight-Alpha"
+	},
+	"skeleton":"Simalang01.skel",
+	"atlases":[{
+			"atlas":"Simalang01.atlas",
+			"tex_names":["Simalang01","Simalang012","Simalang013"],
+			"textures":["Simalang01.png","Simalang012.png","Simalang013.png"]
+		}]
+}

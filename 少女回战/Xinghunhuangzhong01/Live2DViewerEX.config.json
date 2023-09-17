@@ -1,0 +1,36 @@
+{
+	"type":9,
+	"controllers":{
+		"intimacy_system":{
+		},
+		"slot_opacity":{
+		},
+		"slot_color":{
+		}
+	},
+	"motions":{
+		"shake":[{
+				"file":"Open"
+			}],
+		"idle":[{
+				"file":"Stand"
+			}],
+		"tap":[{
+				"file":"Click"
+			},{
+				"file":"Special01"
+			},{
+				"file":"Special02"
+			}]
+	},
+	"options":{
+		"edge_padding":false,
+		"shader":"Skeleton-Straight-Alpha"
+	},
+	"skeleton":"Xinghunhuangzhong01.skel",
+	"atlases":[{
+			"atlas":"Xinghunhuangzhong01.atlas",
+			"tex_names":["Xinghunhuangzhong01","Xinghunhuangzhong012","Xinghunhuangzhong013","Xinghunhuangzhong014"],
+			"textures":["Xinghunhuangzhong01.png","Xinghunhuangzhong012.png","Xinghunhuangzhong013.png","Xinghunhuangzhong014.png"]
+		}]
+}

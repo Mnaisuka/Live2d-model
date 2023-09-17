@@ -1,0 +1,36 @@
+{
+	"type":9,
+	"controllers":{
+		"intimacy_system":{
+		},
+		"slot_opacity":{
+		},
+		"slot_color":{
+		}
+	},
+	"motions":{
+		"shake":[{
+				"file":"Open"
+			}],
+		"idle":[{
+				"file":"Stand"
+			}],
+		"tap":[{
+				"file":"Click"
+			},{
+				"file":"Special01"
+			},{
+				"file":"Special02"
+			}]
+	},
+	"options":{
+		"edge_padding":false,
+		"shader":"Skeleton-Straight-Alpha"
+	},
+	"skeleton":"Shenguilvbu01.skel",
+	"atlases":[{
+			"atlas":"Shenguilvbu01.atlas",
+			"tex_names":["Shenguilvbu01","Shenguilvbu012","Shenguilvbu013"],
+			"textures":["Shenguilvbu01.png","Shenguilvbu012.png","Shenguilvbu013.png"]
+		}]
+}

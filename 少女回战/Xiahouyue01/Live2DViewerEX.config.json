@@ -1,0 +1,36 @@
+{
+	"type":9,
+	"controllers":{
+		"intimacy_system":{
+		},
+		"slot_opacity":{
+		},
+		"slot_color":{
+		}
+	},
+	"motions":{
+		"shake":[{
+				"file":"Open"
+			}],
+		"idle":[{
+				"file":"Stand"
+			}],
+		"tap":[{
+				"file":"Click"
+			},{
+				"file":"Special01"
+			},{
+				"file":"Special02"
+			}]
+	},
+	"options":{
+		"edge_padding":false,
+		"shader":"Skeleton-Straight-Alpha"
+	},
+	"skeleton":"Xiahouyue01.skel",
+	"atlases":[{
+			"atlas":"Xiahouyue01.atlas",
+			"tex_names":["Xiahouyue01","Xiahouyue012","Xiahouyue013"],
+			"textures":["Xiahouyue01.png","Xiahouyue012.png","Xiahouyue013.png"]
+		}]
+}

@@ -1,0 +1,1153 @@
+
+Ui_tiaojianpata.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Doorshadow_01
+  rotate: false
+  xy: 2, 2044
+  size: 48, 2
+  orig: 323, 147
+  offset: 59, 145
+  index: -1
+Doorshadow_02
+  rotate: false
+  xy: 52, 2043
+  size: 49, 3
+  orig: 323, 147
+  offset: 58, 144
+  index: -1
+Doorshadow_03
+  rotate: false
+  xy: 103, 2042
+  size: 49, 4
+  orig: 323, 147
+  offset: 58, 143
+  index: -1
+Doorshadow_04
+  rotate: false
+  xy: 154, 2042
+  size: 216, 4
+  orig: 323, 147
+  offset: 57, 143
+  index: -1
+Doorshadow_05
+  rotate: false
+  xy: 372, 2041
+  size: 217, 5
+  orig: 323, 147
+  offset: 57, 142
+  index: -1
+Doorshadow_06
+  rotate: false
+  xy: 591, 2040
+  size: 218, 6
+  orig: 323, 147
+  offset: 57, 141
+  index: -1
+Doorshadow_07
+  rotate: false
+  xy: 811, 2034
+  size: 218, 12
+  orig: 323, 147
+  offset: 57, 135
+  index: -1
+Doorshadow_08
+  rotate: false
+  xy: 1225, 2028
+  size: 221, 18
+  orig: 323, 147
+  offset: 55, 129
+  index: -1
+Doorshadow_09
+  rotate: false
+  xy: 479, 2012
+  size: 226, 26
+  orig: 323, 147
+  offset: 51, 121
+  index: -1
+Doorshadow_10
+  rotate: false
+  xy: 1187, 1992
+  size: 231, 34
+  orig: 323, 147
+  offset: 46, 113
+  index: -1
+Doorshadow_11
+  rotate: false
+  xy: 2, 1971
+  size: 236, 44
+  orig: 323, 147
+  offset: 41, 103
+  index: -1
+Doorshadow_12
+  rotate: false
+  xy: 750, 1944
+  size: 241, 53
+  orig: 323, 147
+  offset: 36, 94
+  index: -1
+Doorshadow_13
+  rotate: false
+  xy: 1402, 1917
+  size: 247, 64
+  orig: 323, 147
+  offset: 30, 83
+  index: -1
+Doorshadow_14
+  rotate: false
+  xy: 740, 1867
+  size: 251, 75
+  orig: 323, 147
+  offset: 26, 72
+  index: -1
+Doorshadow_15
+  rotate: false
+  xy: 279, 1791
+  size: 255, 85
+  orig: 323, 147
+  offset: 22, 62
+  index: -1
+Doorshadow_16
+  rotate: false
+  xy: 536, 1772
+  size: 259, 93
+  orig: 323, 147
+  offset: 20, 54
+  index: -1
+Doorshadow_17
+  rotate: false
+  xy: 906, 1748
+  size: 263, 98
+  orig: 323, 147
+  offset: 20, 49
+  index: -1
+Doorshadow_18
+  rotate: false
+  xy: 1484, 1722
+  size: 268, 98
+  orig: 323, 147
+  offset: 20, 49
+  index: -1
+Doorshadow_19
+  rotate: false
+  xy: 1754, 1710
+  size: 272, 98
+  orig: 323, 147
+  offset: 20, 49
+  index: -1
+Doorshadow_20
+  rotate: false
+  xy: 181, 1681
+  size: 277, 108
+  orig: 323, 147
+  offset: 20, 39
+  index: -1
+Doorshadow_21
+  rotate: false
+  xy: 460, 1657
+  size: 281, 113
+  orig: 323, 147
+  offset: 20, 34
+  index: -1
+Doorshadow_22
+  rotate: false
+  xy: 873, 1633
+  size: 284, 113
+  orig: 323, 147
+  offset: 20, 34
+  index: -1
+Doorshadow_23
+  rotate: false
+  xy: 1457, 1603
+  size: 286, 117
+  orig: 323, 147
+  offset: 20, 30
+  index: -1
+Doorshadow_24
+  rotate: false
+  xy: 1745, 1591
+  size: 291, 117
+  orig: 323, 147
+  offset: 15, 30
+  index: -1
+Doorshadow_25
+  rotate: false
+  xy: 338, 1537
+  size: 294, 118
+  orig: 323, 147
+  offset: 12, 29
+  index: -1
+Doorshadow_26
+  rotate: false
+  xy: 1641, 1458
+  size: 295, 131
+  orig: 323, 147
+  offset: 11, 16
+  index: -1
+Doorshadow_27
+  rotate: false
+  xy: 1376, 1179
+  size: 295, 138
+  orig: 323, 147
+  offset: 11, 9
+  index: -1
+Doorshadow_28
+  rotate: false
+  xy: 1673, 1179
+  size: 297, 138
+  orig: 323, 147
+  offset: 12, 9
+  index: -1
+Doorshadow_29
+  rotate: false
+  xy: 184, 1099
+  size: 297, 138
+  orig: 323, 147
+  offset: 12, 9
+  index: -1
+Doorshadow_30
+  rotate: false
+  xy: 483, 1065
+  size: 297, 138
+  orig: 323, 147
+  offset: 12, 9
+  index: -1
+Doorshadow_31
+  rotate: false
+  xy: 782, 1057
+  size: 297, 138
+  orig: 323, 147
+  offset: 12, 9
+  index: -1
+Doorshadow_32
+  rotate: false
+  xy: 1081, 1039
+  size: 297, 138
+  orig: 323, 147
+  offset: 12, 9
+  index: -1
+Doorshadow_33
+  rotate: false
+  xy: 511, 1378
+  size: 297, 137
+  orig: 323, 147
+  offset: 12, 10
+  index: -1
+Doorshadow_34
+  rotate: false
+  xy: 977, 1344
+  size: 297, 137
+  orig: 323, 147
+  offset: 12, 10
+  index: -1
+Doorshadow_35
+  rotate: false
+  xy: 1432, 1319
+  size: 296, 137
+  orig: 323, 147
+  offset: 13, 10
+  index: -1
+Doorshadow_36
+  rotate: false
+  xy: 1730, 1319
+  size: 296, 137
+  orig: 323, 147
+  offset: 13, 10
+  index: -1
+Doorshadow_37
+  rotate: false
+  xy: 2, 1277
+  size: 296, 137
+  orig: 323, 147
+  offset: 13, 10
+  index: -1
+Doorshadow_38
+  rotate: false
+  xy: 300, 1239
+  size: 296, 137
+  orig: 323, 147
+  offset: 13, 10
+  index: -1
+Doorshadow_39
+  rotate: false
+  xy: 780, 1205
+  size: 296, 137
+  orig: 323, 147
+  offset: 13, 10
+  index: -1
+Doorshadow_40
+  rotate: false
+  xy: 1078, 1197
+  size: 296, 137
+  orig: 323, 147
+  offset: 13, 10
+  index: -1
+Tower01_door01
+  rotate: false
+  xy: 1878, 2024
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Tower01_door02
+  rotate: false
+  xy: 1592, 1983
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+Tower01_door03
+  rotate: true
+  xy: 1725, 2026
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Tower01_door04
+  rotate: true
+  xy: 1905, 2024
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Tower01_door05
+  rotate: false
+  xy: 1115, 2032
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Tower01_door06
+  rotate: true
+  xy: 311, 2014
+  size: 25, 99
+  orig: 25, 99
+  offset: 0, 0
+  index: -1
+Tower01_door07
+  rotate: true
+  xy: 1580, 2027
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Tower01_door08
+  rotate: true
+  xy: 240, 1965
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+Tower01_door09
+  rotate: true
+  xy: 1448, 2028
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Tower01_door10
+  rotate: false
+  xy: 1604, 2027
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Tower01_door11
+  rotate: true
+  xy: 1749, 2026
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Tower01_door12
+  rotate: false
+  xy: 1134, 2032
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Tower01_door13
+  rotate: true
+  xy: 1625, 2027
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Tower01_door14
+  rotate: true
+  xy: 783, 2004
+  size: 28, 73
+  orig: 28, 73
+  offset: 0, 0
+  index: -1
+Tower01_door15
+  rotate: true
+  xy: 456, 1961
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+Tower01_door16
+  rotate: false
+  xy: 284, 2016
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Tower01_door17
+  rotate: false
+  xy: 1666, 1982
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+Tower01_door18
+  rotate: false
+  xy: 1931, 2024
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Tower01_door19
+  rotate: true
+  xy: 1773, 2026
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Tower01_door20
+  rotate: false
+  xy: 1647, 1822
+  size: 124, 85
+  orig: 124, 85
+  offset: 0, 0
+  index: -1
+Tower01_door20_N
+  rotate: false
+  xy: 1773, 1814
+  size: 124, 85
+  orig: 124, 85
+  offset: 0, 0
+  index: -1
+Tower01_door21
+  rotate: false
+  xy: 2, 1573
+  size: 166, 118
+  orig: 166, 118
+  offset: 0, 0
+  index: -1
+Tower01_door21_N
+  rotate: false
+  xy: 170, 1561
+  size: 166, 118
+  orig: 166, 118
+  offset: 0, 0
+  index: -1
+Tower01_door22
+  rotate: false
+  xy: 1031, 2033
+  size: 45, 13
+  orig: 45, 13
+  offset: 0, 0
+  index: -1
+Tower01_door23
+  rotate: false
+  xy: 1153, 2032
+  size: 40, 14
+  orig: 42, 14
+  offset: 2, 0
+  index: -1
+Tower01_door24
+  rotate: false
+  xy: 1380, 1025
+  size: 390, 152
+  orig: 390, 152
+  offset: 0, 0
+  index: -1
+Tower01_door25
+  rotate: false
+  xy: 1305, 1725
+  size: 177, 107
+  orig: 177, 107
+  offset: 0, 0
+  index: -1
+Tower01_door25_N
+  rotate: false
+  xy: 2, 1693
+  size: 177, 107
+  orig: 177, 107
+  offset: 0, 0
+  index: -1
+Tower01_door26
+  rotate: true
+  xy: 1958, 2024
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Tower01_door27
+  rotate: true
+  xy: 412, 2013
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Tower01_door28
+  rotate: true
+  xy: 297, 1964
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+Tower01_door29
+  rotate: false
+  xy: 2005, 2024
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+Tower01_door30
+  rotate: true
+  xy: 1797, 2026
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Tower01_door31
+  rotate: true
+  xy: 1649, 2027
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Tower01_door32
+  rotate: true
+  xy: 2, 2020
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Tower01_door33
+  rotate: true
+  xy: 448, 2013
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Tower01_door34
+  rotate: true
+  xy: 1674, 2027
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Tower01_door35
+  rotate: false
+  xy: 110, 2017
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+Tower01_door36
+  rotate: true
+  xy: 1698, 2027
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Tower01_door37
+  rotate: true
+  xy: 377, 1963
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+Tower01_door38
+  rotate: true
+  xy: 36, 2019
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Tower01_door39
+  rotate: false
+  xy: 296, 1887
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+Tower01_door40
+  rotate: true
+  xy: 598, 1219
+  size: 157, 180
+  orig: 157, 192
+  offset: 0, 0
+  index: -1
+Tower01_door40_N
+  rotate: true
+  xy: 2, 1118
+  size: 157, 180
+  orig: 157, 192
+  offset: 0, 0
+  index: -1
+Tower01_door41
+  rotate: true
+  xy: 1252, 1930
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+Tower01_door41_N
+  rotate: true
+  xy: 1327, 1930
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+Tower01_door42
+  rotate: false
+  xy: 858, 1999
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+Tower01_door42_N
+  rotate: false
+  xy: 940, 1999
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+Tower01_door43
+  rotate: true
+  xy: 1899, 1810
+  size: 88, 122
+  orig: 88, 122
+  offset: 0, 0
+  index: -1
+Tower01_door43_N
+  rotate: true
+  xy: 2, 1806
+  size: 88, 122
+  orig: 88, 122
+  offset: 0, 0
+  index: -1
+Tower01_door44
+  rotate: true
+  xy: 2, 1896
+  size: 73, 145
+  orig: 73, 145
+  offset: 0, 0
+  index: -1
+Tower01_door44_N
+  rotate: true
+  xy: 149, 1890
+  size: 73, 145
+  orig: 73, 145
+  offset: 0, 0
+  index: -1
+Tower01_door45
+  rotate: true
+  xy: 1546, 1824
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+Tower01_float03
+  rotate: true
+  xy: 238, 644
+  size: 218, 552
+  orig: 218, 552
+  offset: 0, 0
+  index: -1
+Tower01_float03W
+  rotate: true
+  xy: 792, 595
+  size: 218, 552
+  orig: 218, 552
+  offset: 0, 0
+  index: -1
+Tower01_float04
+  rotate: true
+  xy: 749, 279
+  size: 280, 622
+  orig: 280, 622
+  offset: 0, 0
+  index: -1
+Tower01_float04W
+  rotate: true
+  xy: 1373, 266
+  size: 280, 622
+  orig: 280, 622
+  offset: 0, 0
+  index: -1
+Tower01_hill01
+  rotate: true
+  xy: 1101, 1483
+  size: 118, 394
+  orig: 118, 394
+  offset: 0, 0
+  index: -1
+Tower01_hill02
+  rotate: true
+  xy: 1329, 1834
+  size: 81, 215
+  orig: 81, 215
+  offset: 0, 0
+  index: -1
+Tower01_hill03
+  rotate: false
+  xy: 1651, 1909
+  size: 139, 68
+  orig: 139, 68
+  offset: 0, 0
+  index: -1
+Tower01_hill04
+  rotate: true
+  xy: 993, 1939
+  size: 54, 168
+  orig: 54, 168
+  offset: 0, 0
+  index: -1
+Tower01_hill05
+  rotate: true
+  xy: 1908, 1900
+  size: 73, 138
+  orig: 73, 138
+  offset: 0, 0
+  index: -1
+Tower01_hill06
+  rotate: true
+  xy: 513, 1959
+  size: 50, 235
+  orig: 50, 235
+  offset: 0, 0
+  index: -1
+Tower01_hill07
+  rotate: true
+  xy: 707, 2011
+  size: 27, 74
+  orig: 29, 77
+  offset: 1, 0
+  index: -1
+Tower01_hill08
+  rotate: true
+  xy: 1854, 1975
+  size: 47, 171
+  orig: 47, 171
+  offset: 0, 0
+  index: -1
+Tower01_hill09
+  rotate: true
+  xy: 146, 2017
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+Tower01_hill10
+  rotate: true
+  xy: 1420, 1988
+  size: 38, 84
+  orig: 38, 84
+  offset: 0, 0
+  index: -1
+Tower01_hill11
+  rotate: true
+  xy: 1472, 2028
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Tower01_hill12
+  rotate: true
+  xy: 71, 2018
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+Tower01_hill13
+  rotate: true
+  xy: 1506, 1987
+  size: 38, 84
+  orig: 38, 84
+  offset: 0, 0
+  index: -1
+Tower01_hill14
+  rotate: true
+  xy: 198, 2017
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+Tower01_hill15
+  rotate: true
+  xy: 1117, 1848
+  size: 80, 210
+  orig: 80, 210
+  offset: 0, 0
+  index: -1
+Tower01_hill16
+  rotate: true
+  xy: 1740, 1979
+  size: 44, 112
+  orig: 44, 112
+  offset: 0, 0
+  index: -1
+Tower01_road02
+  rotate: false
+  xy: 2, 45
+  size: 640, 309
+  orig: 640, 310
+  offset: 0, 1
+  index: -1
+Tower01_road03
+  rotate: true
+  xy: 2, 386
+  size: 256, 405
+  orig: 256, 405
+  offset: 0, 0
+  index: -1
+Tower01_road04
+  rotate: true
+  xy: 409, 356
+  size: 286, 338
+  orig: 286, 338
+  offset: 0, 0
+  index: -1
+Tower01_road06
+  rotate: true
+  xy: 1635, 548
+  size: 252, 258
+  orig: 252, 258
+  offset: 0, 0
+  index: -1
+Tower01_road07
+  rotate: false
+  xy: 1346, 561
+  size: 287, 246
+  orig: 287, 246
+  offset: 0, 0
+  index: -1
+Tower01_road08
+  rotate: false
+  xy: 1234, 815
+  size: 240, 208
+  orig: 240, 208
+  offset: 0, 0
+  index: -1
+Tower01_road09
+  rotate: true
+  xy: 225, 922
+  size: 175, 246
+  orig: 175, 246
+  offset: 0, 0
+  index: -1
+Tower01_road10
+  rotate: false
+  xy: 693, 864
+  size: 286, 191
+  orig: 286, 191
+  offset: 0, 0
+  index: -1
+Tower01_road11
+  rotate: true
+  xy: 981, 843
+  size: 194, 251
+  orig: 194, 251
+  offset: 0, 0
+  index: -1
+Tower01_road12
+  rotate: false
+  xy: 1476, 809
+  size: 271, 214
+  orig: 271, 214
+  offset: 0, 0
+  index: -1
+Tower01_road13
+  rotate: false
+  xy: 2, 702
+  size: 234, 218
+  orig: 234, 218
+  offset: 0, 0
+  index: -1
+Tower01_road14
+  rotate: false
+  xy: 1749, 802
+  size: 238, 216
+  orig: 238, 216
+  offset: 0, 0
+  index: -1
+Tower01_road15
+  rotate: false
+  xy: 634, 1517
+  size: 192, 127
+  orig: 192, 127
+  offset: 0, 0
+  index: -1
+Tower01_road16
+  rotate: true
+  xy: 527, 1878
+  size: 79, 93
+  orig: 79, 93
+  offset: 0, 0
+  index: -1
+Tower01_road17
+  rotate: true
+  xy: 473, 880
+  size: 183, 218
+  orig: 183, 218
+  offset: 0, 0
+  index: -1
+Tower01_road18
+  rotate: false
+  xy: 338, 1398
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+Tower01_road19
+  rotate: true
+  xy: 2, 925
+  size: 172, 221
+  orig: 172, 221
+  offset: 0, 0
+  index: -1
+Tower01_road20
+  rotate: true
+  xy: 1772, 1020
+  size: 157, 226
+  orig: 157, 226
+  offset: 0, 0
+  index: -1
+Tower01_road21
+  rotate: false
+  xy: 810, 1352
+  size: 165, 144
+  orig: 165, 144
+  offset: 0, 0
+  index: -1
+Tower01_road22
+  rotate: true
+  xy: 2, 1428
+  size: 143, 165
+  orig: 143, 165
+  offset: 0, 0
+  index: -1
+Tower01_road23
+  rotate: true
+  xy: 169, 1416
+  size: 143, 167
+  orig: 143, 167
+  offset: 0, 0
+  index: -1
+Tower01_road24
+  rotate: true
+  xy: 394, 1883
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1
+Tower01_road25
+  rotate: false
+  xy: 1276, 1336
+  size: 154, 145
+  orig: 154, 145
+  offset: 0, 0
+  index: -1
+Tower01_road26
+  rotate: false
+  xy: 1159, 1612
+  size: 138, 122
+  orig: 138, 122
+  offset: 0, 0
+  index: -1
+Tower01_road27
+  rotate: false
+  xy: 1299, 1607
+  size: 156, 116
+  orig: 156, 116
+  offset: 0, 0
+  index: -1
+Tower01_road28
+  rotate: true
+  xy: 1171, 1736
+  size: 110, 132
+  orig: 110, 132
+  offset: 0, 0
+  index: -1
+Tower01_road29
+  rotate: true
+  xy: 1163, 1931
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+Tower01_road30
+  rotate: false
+  xy: 993, 1855
+  size: 122, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1
+Tower01_road31
+  rotate: true
+  xy: 743, 1646
+  size: 113, 128
+  orig: 113, 128
+  offset: 0, 0
+  index: -1
+Tower01_road32
+  rotate: false
+  xy: 126, 1802
+  size: 151, 86
+  orig: 151, 88
+  offset: 0, 0
+  index: -1
+Tower01_road33
+  rotate: true
+  xy: 1497, 1465
+  size: 136, 142
+  orig: 136, 142
+  offset: 0, 0
+  index: -1
+Tower01_road34
+  rotate: true
+  xy: 828, 1504
+  size: 127, 130
+  orig: 127, 130
+  offset: 0, 0
+  index: -1
+Tower01_road35
+  rotate: true
+  xy: 960, 1498
+  size: 133, 139
+  orig: 133, 139
+  offset: 0, 0
+  index: -1
+Tower01_road36
+  rotate: false
+  xy: 622, 1877
+  size: 116, 80
+  orig: 116, 80
+  offset: 0, 0
+  index: -1
+Tower01_road37
+  rotate: true
+  xy: 797, 1761
+  size: 104, 107
+  orig: 104, 107
+  offset: 0, 0
+  index: -1
+Tower01_road38
+  rotate: false
+  xy: 1792, 1901
+  size: 114, 72
+  orig: 114, 72
+  offset: 0, 0
+  index: -1
+Tower01_sg01
+  rotate: false
+  xy: 1022, 1995
+  size: 163, 35
+  orig: 163, 35
+  offset: 0, 0
+  index: -1
+Tower01_stone01
+  rotate: false
+  xy: 1504, 2028
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Tower01_stone02
+  rotate: false
+  xy: 1822, 2025
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+Tower01_stone03
+  rotate: true
+  xy: 250, 2017
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Tower01_stone04
+  rotate: false
+  xy: 1195, 2031
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+Tower01_stone05
+  rotate: false
+  xy: 1532, 2028
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+Tower01_stone06
+  rotate: false
+  xy: 1078, 2033
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+
+Ui_tiaojianpata2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tower01_float01
+  rotate: true
+  xy: 2, 466
+  size: 408, 1149
+  orig: 408, 1149
+  offset: 0, 0
+  index: -1
+Tower01_float01W
+  rotate: false
+  xy: 1186, 130
+  size: 408, 1149
+  orig: 408, 1149
+  offset: 0, 0
+  index: -1
+Tower01_float02
+  rotate: true
+  xy: 2, 1587
+  size: 304, 1889
+  orig: 304, 1889
+  offset: 0, 0
+  index: -1
+Tower01_float02W
+  rotate: true
+  xy: 2, 1281
+  size: 304, 1889
+  orig: 304, 1889
+  offset: 0, 0
+  index: -1
+Tower01_ring
+  rotate: true
+  xy: 761, 876
+  size: 403, 423
+  orig: 403, 423
+  offset: 0, 0
+  index: -1
+Tower01_road01
+  rotate: false
+  xy: 2, 935
+  size: 376, 344
+  orig: 376, 344
+  offset: 0, 0
+  index: -1
+Tower01_road05
+  rotate: true
+  xy: 380, 917
+  size: 362, 379
+  orig: 362, 379
+  offset: 0, 0
+  index: -1

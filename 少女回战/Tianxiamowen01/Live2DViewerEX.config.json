@@ -1,0 +1,36 @@
+{
+	"type":9,
+	"controllers":{
+		"intimacy_system":{
+		},
+		"slot_opacity":{
+		},
+		"slot_color":{
+		}
+	},
+	"motions":{
+		"shake":[{
+				"file":"Open"
+			}],
+		"idle":[{
+				"file":"Stand"
+			}],
+		"tap":[{
+				"file":"Click"
+			},{
+				"file":"Special01"
+			},{
+				"file":"Special02"
+			}]
+	},
+	"options":{
+		"edge_padding":false,
+		"shader":"Skeleton-Straight-Alpha"
+	},
+	"skeleton":"Tianxiamowen01.skel",
+	"atlases":[{
+			"atlas":"Tianxiamowen01.atlas",
+			"tex_names":["Tianxiamowen01","Tianxiamowen012"],
+			"textures":["Tianxiamowen01.png","Tianxiamowen012.png"]
+		}]
+}
